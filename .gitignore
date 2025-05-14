@@ -19,8 +19,6 @@ node_modules/
 public/hot
 public/storage
 public/uploads
-/public/js/*
-/public/css/*
 !/public/js/.gitkeep
 !/public/css/.gitkeep
 /public/mix-manifest.json
