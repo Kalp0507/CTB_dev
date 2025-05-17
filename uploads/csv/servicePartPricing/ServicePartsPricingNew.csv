@@ -1,0 +1,3 @@
+part_name,part_description,part_image,make,model,fuel,price,serviceType,part_type
+Clutch Repair,Complete,50.jpg,FORD,Eco Sport,Petrol,3200,Mechanical Repair,null
+Engine Repair,Overhaul,56.jpg,Toyota,Innova,Disel,5000,Mechanical Repair,null

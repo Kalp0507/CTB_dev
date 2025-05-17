@@ -1,65 +1,13 @@
-# Laravel core directories
-/vendor/
-node_modules/
-
-# Environment files
-.env
-.env.*
-
-# Laravel-specific
+/node_modules
+/public/hot
+/public/storage
+/public/uploads
 /storage/*.key
-/storage/framework/*
-!/storage/framework/.gitignore
-/storage/logs/*
-!/storage/logs/.gitignore
-/bootstrap/cache/*
-!/bootstrap/cache/.gitignore
-
-# Public build output (if using Laravel Mix or Vite)
-public/hot
-public/storage
-public/uploads
-!/public/js/.gitkeep
-!/public/css/.gitkeep
-/public/mix-manifest.json
-/public/build/
-/mix-manifest.json
-/plugins/
-/uploads/
-/tests/
-
-# Compiled frontend assets (optional if using Vite or Mix)
-/build/
-dist/
-
-# IDE and OS files
-/.idea
-/.vscode
-.DS_Store
-Thumbs.db
-
-# Composer / NPM debug logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log
-
-# GitHub repo test folder (if not needed)
-/my-github-repo/
-
-# PHPUnit / test-related
+/vendor
+.env
+.env.backup
 .phpunit.result.cache
-/coverage/
-
-# Backup or temp files
-*.bak
-*.backup
-*.log
-
-# Others (optional based on your project)
-/tests/_output/
-/tests/_support/_generated/
-
-# Ignore compiled .lock files if necessary (optional)
-# composer.lock
-# package-lock.json
-# yarn.lock
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log

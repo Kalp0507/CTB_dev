@@ -1,0 +1,127 @@
+part_name,car_type,solid,metallic,pearl
+Hood,Hatchback,3250,3650,4100
+Hood,Premium Hatchback,3250,3650,4250
+Hood,Compact SUV,3250,3800,4300
+Hood,Sedan,3250,3800,4300
+Hood,SUV/MPV,3650,3850,4550
+Hood,Premium Sedan,3650,3850,4550
+Door Fender (Each),Hatchback,2850,3200,3500
+Door Fender (Each),Premium Hatchback,2850,3200,3500
+Door Fender (Each),Compact SUV,3000,3200,3800
+Door Fender (Each),Sedan,2850,3200,3800
+Door Fender (Each),SUV/MPV,3200,3600,3800
+Door Fender (Each),Premium Sedan,3200,3600,3800
+Door Front,Hatchback,3250,3650,4100
+Door Front,Premium Hatchback,3250,3650,4250
+Door Front,Compact SUV,3250,3800,4300
+Door Front,Sedan,3250,3800,4300
+Door Front,SUV/MPV,3650,3850,4550
+Door Front,Premium Sedan,3650,3850,4550
+Door Rear,Hatchback,3250,3650,4100
+Door Rear,Premium Hatchback,3250,3650,4250
+Door Rear,Compact SUV,3250,3800,4300
+Door Rear,Sedan,3250,3800,4300
+Door Rear,SUV/MPV,3650,3850,4550
+Door Rear,Premium Sedan,3650,3850,4550
+Dicky Door,Hatchback,3250,3650,4100
+Dicky Door,Premium Hatchback,3250,3650,4250
+Dicky Door,Compact SUV,3250,3800,4300
+Dicky Door,Sedan,3250,3800,4300
+Dicky Door,SUV/MPV,3650,3850,4550
+Dicky Door,Premium Sedan,3650,3850,4550
+Rr Outer body,Hatchback,2850,3200,3500
+Rr Outer body,Premium Hatchback,2850,3200,3500
+Rr Outer body,Compact SUV,3000,3200,3800
+Rr Outer body,Sedan,2850,3200,3800
+Rr Outer body,SUV/MPV,3200,3600,3800
+Rr Outer body,Premium Sedan,3200,3600,3800
+Ctr Outer body,Hatchback,2250,2500,2800
+Ctr Outer body,Premium Hatchback,2250,2500,2800
+Ctr Outer body,Compact SUV,2250,2500,2800
+Ctr Outer body,Sedan,2250,2500,2800
+Ctr Outer body,SUV/MPV,2250,2800,3000
+Ctr Outer body,Premium Sedan,2250,2800,3000
+ Side Sill Outer body,Hatchback,1650,2000,2200
+Side Sill Outer body,Premium Hatchback,1650,2000,2200
+Side Sill Outer body,Compact SUV,1650,2000,2200
+Side Sill Outer body,Sedan,1650,2000,2200
+Side Sill Outer body,SUV/MPV,1800,2500,3200
+Side Sill Outer body,Premium Sedan,1800,2500,3200
+Frt Outer body,Hatchback,2250,2500,2800
+Frt Outer body,Premium Hatchback,2250,2500,2800
+Frt Outer body,Compact SUV,2250,2500,2800
+Frt Outer body,Sedan,2250,2500,2800
+Frt Outer body,SUV/MPV,2250,2800,3000
+Frt Outer body,Premium Sedan,2250,2800,3000
+Roof,Hatchback,3250,3650,4100
+Roof,Premium Hatchback,3250,3650,4250
+Roof,Compact SUV,3250,3800,4300
+Roof,Sedan,3250,3800,4300
+Roof,SUV/MPV,3650,3850,4550
+Roof,Premium Sedan,3650,3850,4550
+Cowl Top,Hatchback,1650,                          Null,                        Null
+Cowl Top,Premium Hatchback,1650,                          Null,                        Null
+Cowl Top,Compact SUV,1650,                          Null,                        Null
+Cowl Top,Sedan,1650,                          Null,                        Null
+Cowl Top,SUV/MPV,1800,                          Null,                        Null
+Cowl Top,Premium Sedan,1800,                          Null,                        Null
+Apron,Hatchback,1800,                          Null,                        Null
+Apron,Premium Hatchback,1800,                          Null,                        Null
+Apron,Compact SUV,1800,                          Null,                        Null
+Apron,Sedan,1800,                          Null,                        Null
+Apron,SUV/MPV,2000,                          Null,                        Null
+Apron,Premium Sedan,2000,                          Null,                        Null
+Fire Wall(Panel Dash),Hatchback,1650,                          Null,                        Null
+Fire Wall(Panel Dash),Premium Hatchback,1650,                          Null,                        Null
+Fire Wall(Panel Dash),Compact SUV,1650,                          Null,                        Null
+Fire Wall(Panel Dash),Sedan,1650,                          Null,                        Null
+Fire Wall(Panel Dash),SUV/MPV,1800,                          Null,                        Null
+Fire Wall(Panel Dash),Premium Sedan,1800,                          Null,                        Null
+Front Floor,Hatchback,1800,                          Null,                        Null
+Front Floor,Premium Hatchback,1800,                          Null,                        Null
+Front Floor,Compact SUV,1800,                          Null,                        Null
+Front Floor,Sedan,1800,                          Null,                        Null
+Front Floor,SUV/MPV,2000,                          Null,                        Null
+Front Floor,Premium Sedan,2000,                          Null,                        Null
+ Middle Floor,Hatchback,1800,                          Null,                        Null
+ Middle Floor,Premium Hatchback,1800,                          Null,                        Null
+ Middle Floor,Compact SUV,1800,                          Null,                        Null
+ Middle Floor,Sedan,1800,                          Null,                        Null
+ Middle Floor,SUV/MPV,2000,                          Null,                        Null
+ Middle Floor,Premium Sedan,2000,                          Null,                        Null
+ Rear Floor,Hatchback,1650,                          Null,                        Null
+ Rear Floor,Premium Hatchback,1650,                          Null,                        Null
+ Rear Floor,Compact SUV,1650,                          Null,                        Null
+ Rear Floor,Sedan,1650,                          Null,                        Null
+ Rear Floor,SUV/MPV,1800,                          Null,                        Null
+ Rear Floor,Premium Sedan,1800,                          Null,                        Null
+Bumper,Hatchback,2550,3150,3550
+Bumper,Premium Hatchback,2550,3150,3550
+Bumper,Compact SUV,2850,3350,3600
+Bumper,Sedan,2850,3350,3600
+Bumper,SUV/MPV,3250,3600,3800
+Bumper,Premium Sedan,3550,3800,4250
+Spoiler,Hatchback,850,1250,1850
+Spoiler,Premium Hatchback,850,1250,1850
+Spoiler,Compact SUV,850,1250,1850
+Spoiler,Sedan,850,1250,1850
+Spoiler,SUV/MPV,850,1250,1850
+Spoiler,Premium Sedan,850,1250,1850
+Side view Mirror,Hatchback,400,600,800
+Side view Mirror,Premium Hatchback,400,600,800
+Side view Mirror,Compact SUV,400,600,800
+Side view Mirror,Sedan,400,600,800
+Side view Mirror,SUV/MPV,600,800,1100
+Side view Mirror,Premium Sedan,600,800,1100
+Body Same color,Hatchback,38000,43350,47750
+Body Same color,Premium Hatchback,38000,43350,47750
+Body Same color,Compact SUV,38000,43350,47750
+Body Same color,Sedan,38000,43350,47750
+Body Same color,SUV/MPV,42700,47300,52500
+Body Same color,Premium Sedan,42700,47300,52500
+Body Change color,Hatchback,38000,43350,52500
+Body Change color,Premium Hatchback,38000,43350,52500
+Body Change color,Compact SUV,38000,43350,52500
+Body Change color,Sedan,38000,43350,52500
+Body Change color,SUV/MPV,42700,47300,57600
+Body Change color,Premium Sedan,42700,47300,57600

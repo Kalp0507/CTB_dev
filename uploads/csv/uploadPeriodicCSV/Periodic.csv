@@ -1,0 +1,4 @@
+make,model,fuel,car_type,package_name,package_description,package_price,discounted_price,service_time
+Chevrolet,New Model123,Petrol,Sedan,Standard Service,Package Description,5555,4444,
+Chevrolet,Aveo,Petrol,Sedan,Standard Service,Package Description,2222,2000,
+Chevrolet,Beat,Petrol,Hatchback,Standard Service,Package Description,6666,5555,

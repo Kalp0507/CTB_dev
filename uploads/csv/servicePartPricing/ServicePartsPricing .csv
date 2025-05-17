@@ -1,0 +1,5 @@
+part_name,part_description,part_image,make,model,fuel,make_id,model_id,fuel_id,price,serviceType,part_type
+Service 1,Service Description 1,50.jpg,FORD,FORTUNER,Petrol,1,1,1,3200,AC Servicing,null
+Part 2,Part Description 2,51.jpg,FORD,ETIOS,Diesel,1,2,2,2000,Upkeep Services,null
+Tyre 3,Part Description 3,52.jpg,FORD,FORTUNER,Petrol,1,1,1,1500,Battery and Tyres,1
+Battery 4,Part Description 3,53.jpg,FORD,FORTUNER,Petrol,1,1,1,1500,Battery and Tyres,0

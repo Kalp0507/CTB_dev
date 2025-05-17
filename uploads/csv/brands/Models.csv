@@ -1,0 +1,4 @@
+model_name,make_name,model_image,car_type,fuel
+Kia model1,Kia,Brand-91.jpeg,SUV/MPV,Petrol
+Kia model2,Kia,Brand-18.jpeg,Sedan,Disel
+Kia model3,Kia,Brand-111.jpeg,Hatchback,CNG

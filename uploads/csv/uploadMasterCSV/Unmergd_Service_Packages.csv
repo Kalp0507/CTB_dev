@@ -1,0 +1,1498 @@
+Package Name,Brand Name,Model Name,Segment,Fuel Variant,Market Price
+Basic Service,Chevrolet,Aveo,Sedan,Petrol,2799
+Standard Service,Chevrolet,Aveo,Sedan,Petrol,3999
+Comprehensive Service,Chevrolet,Aveo,Sedan,Petrol,5699
+Basic Service,Chevrolet,Aveo,Sedan,CNG,2799
+Standard Service,Chevrolet,Aveo,Sedan,CNG,3799
+Comprehensive Service,Chevrolet,Aveo,Sedan,CNG,5699
+Basic Service,Chevrolet,Aveo,Sedan,Diesel,3099
+Standard Service,Chevrolet,Aveo,Sedan,Diesel,4199
+Comprehensive Service,Chevrolet,Aveo,Sedan,Diesel,6499
+Basic Service,Chevrolet,Beat,Hatchback,Petrol,2399
+Standard Service,Chevrolet,Beat,Hatchback,Petrol,2999
+Comprehensive Service,Chevrolet,Beat,Hatchback,Petrol,5199
+Basic Service,Chevrolet,Beat,Hatchback,CNG,2399
+Standard Service,Chevrolet,Beat,Hatchback,CNG,2999
+Comprehensive Service,Chevrolet,Beat,Hatchback,CNG,5199
+Basic Service,Chevrolet,Beat,Hatchback,Diesel,2399
+Standard Service,Chevrolet,Beat,Hatchback,Diesel,2999
+Comprehensive Service,Chevrolet,Beat,Hatchback,Diesel,5199
+Basic Service,Chevrolet,Captiva,Premium SUV,Diesel,5099
+Standard Service,Chevrolet,Captiva,Premium SUV,Diesel,6499
+Comprehensive Service,Chevrolet,Captiva,Premium SUV,Diesel,10099
+Basic Service,Chevrolet,Cruze,Premium Sedan,Petrol,4199
+Standard Service,Chevrolet,Cruze,Premium Sedan,Petrol,5399
+Comprehensive Service,Chevrolet,Cruze,Premium Sedan,Petrol,8099
+Basic Service,Chevrolet,Cruze,Premium Sedan,CNG,4199
+Standard Service,Chevrolet,Cruze,Premium Sedan,CNG,5399
+Comprehensive Service,Chevrolet,Cruze,Premium Sedan,CNG,8099
+Basic Service,Chevrolet,Cruze,Premium Sedan,Diesel,5099
+Standard Service,Chevrolet,Cruze,Premium Sedan,Diesel,6499
+Comprehensive Service,Chevrolet,Cruze,Premium Sedan,Diesel,10299
+Basic Service,Chevrolet,Enjoy,SUV,Petrol,3799
+Standard Service,Chevrolet,Enjoy,SUV,Petrol,4799
+Comprehensive Service,Chevrolet,Enjoy,SUV,Petrol,6399
+Basic Service,Chevrolet,Enjoy,SUV,CNG,3799
+Standard Service,Chevrolet,Enjoy,SUV,CNG,4799
+Comprehensive Service,Chevrolet,Enjoy,SUV,CNG,6399
+Basic Service,Chevrolet,Enjoy,SUV,Diesel,3999
+Standard Service,Chevrolet,Enjoy,SUV,Diesel,5099
+Comprehensive Service,Chevrolet,Enjoy,SUV,Diesel,7699
+Basic Service,Toyota,Fortuner,Premium SUV,Petrol,5099
+Standard Service,Toyota,Fortuner,Premium SUV,Petrol,6499
+Comprehensive Service,Toyota,Fortuner,Premium SUV,Petrol,10099
+Basic Service,Chevrolet,Forester,SUV,CNG,5099
+Standard Service,Chevrolet,Forester,SUV,CNG,6499
+Comprehensive Service,Chevrolet,Forester,SUV,CNG,10099
+Basic Service,Chevrolet,Forester,SUV,Diesel,5699
+Standard Service,Chevrolet,Forester,SUV,Diesel,7299
+Comprehensive Service,Chevrolet,Forester,SUV,Diesel,10899
+Basic Service,Chevrolet,Optra,Sedan,Petrol,3499
+Standard Service,Chevrolet,Optra,Sedan,Petrol,4599
+Comprehensive Service,Chevrolet,Optra,Sedan,Petrol,6699
+Basic Service,Chevrolet,Optra,Sedan,CNG,3499
+Standard Service,Chevrolet,Optra,Sedan,CNG,4599
+Comprehensive Service,Chevrolet,Optra,Sedan,CNG,6699
+Basic Service,Chevrolet,Optra,Sedan,Diesel,5099
+Standard Service,Chevrolet,Optra,Sedan,Diesel,6499
+Comprehensive Service,Chevrolet,Optra,Sedan,Diesel,10099
+Basic Service,Chevrolet,Optra Magnum,Sedan,Petrol,3499
+Standard Service,Chevrolet,Optra Magnum,Sedan,Petrol,4599
+Comprehensive Service,Chevrolet,Optra Magnum,Sedan,Petrol,6699
+Basic Service,Chevrolet,Optra Magnum,Sedan,CNG,3499
+Standard Service,Chevrolet,Optra Magnum,Sedan,CNG,4599
+Comprehensive Service,Chevrolet,Optra Magnum,Sedan,CNG,6699
+Basic Service,Chevrolet,Optra Magnum,Sedan,Diesel,5099
+Standard Service,Chevrolet,Optra Magnum,Sedan,Diesel,6499
+Comprehensive Service,Chevrolet,Optra Magnum,Sedan,Diesel,10099
+Basic Service,Chevrolet,Optra SRV,Hatchback,Petrol,3499
+Standard Service,Chevrolet,Optra SRV,Hatchback,Petrol,4499
+Comprehensive Service,Chevrolet,Optra SRV,Hatchback,Petrol,6699
+Basic Service,Chevrolet,Optra SRV,Hatchback,CNG,3499
+Standard Service,Chevrolet,Optra SRV,Hatchback,CNG,4499
+Comprehensive Service,Chevrolet,Optra SRV,Hatchback,CNG,6699
+Basic Service,Chevrolet,Sail,Sedan,Petrol,2799
+Standard Service,Chevrolet,Sail,Sedan,Petrol,3799
+Comprehensive Service,Chevrolet,Sail,Sedan,Petrol,5699
+Basic Service,Chevrolet,Sail,Sedan,CNG,2799
+Standard Service,Chevrolet,Sail,Sedan,CNG,3799
+Comprehensive Service,Chevrolet,Sail,Sedan,CNG,5699
+Basic Service,Chevrolet,Sail,Sedan,Diesel,2899
+Standard Service,Chevrolet,Sail,Sedan,Diesel,3899
+Comprehensive Service,Chevrolet,Sail,Sedan,Diesel,5699
+Basic Service,Chevrolet,Sail Hatchback,Hatchback,Petrol,2699
+Standard Service,Chevrolet,Sail Hatchback,Hatchback,Petrol,3599
+Comprehensive Service,Chevrolet,Sail Hatchback,Hatchback,Petrol,5499
+Basic Service,Chevrolet,Sail Hatchback,Hatchback,CNG,2699
+Standard Service,Chevrolet,Sail Hatchback,Hatchback,CNG,3599
+Comprehensive Service,Chevrolet,Sail Hatchback,Hatchback,CNG,5499
+Basic Service,Chevrolet,Sail Hatchback,Hatchback,Diesel,2699
+Standard Service,Chevrolet,Sail Hatchback,Hatchback,Diesel,3799
+Comprehensive Service,Chevrolet,Sail Hatchback,Hatchback,Diesel,5599
+Basic Service,Chevrolet,Spark,Hatchback,Petrol,2499
+Standard Service,Chevrolet,Spark,Hatchback,Petrol,2999
+Comprehensive Service,Chevrolet,Spark,Hatchback,Petrol,4399
+Basic Service,Chevrolet,Spark,Hatchback,CNG,2399
+Standard Service,Chevrolet,Spark,Hatchback,CNG,2999
+Comprehensive Service,Chevrolet,Spark,Hatchback,CNG,4399
+Basic Service,Chevrolet,Tavera,SUV,Diesel,4399
+Standard Service,Chevrolet,Tavera,SUV,Diesel,5599
+Comprehensive Service,Chevrolet,Tavera,SUV,Diesel,8599
+Basic Service,Chevrolet,UVA,Hatchback,Petrol,3099
+Standard Service,Chevrolet,UVA,Hatchback,Petrol,3999
+Comprehensive Service,Chevrolet,UVA,Hatchback,Petrol,5699
+Basic Service,Chevrolet,UVA,Hatchback,CNG,3099
+Standard Service,Chevrolet,UVA,Hatchback,CNG,3999
+Comprehensive Service,Chevrolet,UVA,Hatchback,CNG,5699
+Basic Service,Chevrolet,UVA,Hatchback,Diesel,3099
+Standard Service,Chevrolet,UVA,Hatchback,Diesel,3999
+Comprehensive Service,Chevrolet,UVA,Hatchback,Diesel,6799
+Basic Service,Daewoo,Cielo,Sedan,Petrol,3399
+Standard Service,Daewoo,Cielo,Sedan,Petrol,4399
+Comprehensive Service,Daewoo,Cielo,Sedan,Petrol,6499
+Basic Service,Daewoo,Cielo,Sedan,CNG,3399
+Standard Service,Daewoo,Cielo,Sedan,CNG,4399
+Comprehensive Service,Daewoo,Cielo,Sedan,CNG,6499
+Basic Service,Daewoo,Matiz,Hatchback,Petrol,2699
+Standard Service,Daewoo,Matiz,Hatchback,Petrol,3399
+Comprehensive Service,Daewoo,Matiz,Hatchback,Petrol,4799
+Basic Service,Daewoo,Matiz,Hatchback,CNG,2699
+Standard Service,Daewoo,Matiz,Hatchback,CNG,3399
+Comprehensive Service,Daewoo,Matiz,Hatchback,CNG,4799
+Basic Service,Daewoo,Nexia,Sedan,Petrol,3399
+Standard Service,Daewoo,Nexia,Sedan,Petrol,4399
+Comprehensive Service,Daewoo,Nexia,Sedan,Petrol,6499
+Basic Service,Daewoo,Nexia,Sedan,CNG,3399
+Standard Service,Daewoo,Nexia,Sedan,CNG,4399
+Comprehensive Service,Daewoo,Nexia,Sedan,CNG,6499
+Basic Service,Datsun,GO,Hatchback,Petrol,2499
+Standard Service,Datsun,GO,Hatchback,Petrol,2999
+Comprehensive Service,Datsun,GO,Hatchback,Petrol,4799
+Basic Service,Datsun,GO,Hatchback,CNG,2499
+Standard Service,Datsun,GO,Hatchback,CNG,2999
+Comprehensive Service,Datsun,GO,Hatchback,CNG,4799
+Basic Service,Datsun,GO Plus,SUV,Petrol,2499
+Standard Service,Datsun,GO Plus,SUV,Petrol,3099
+Comprehensive Service,Datsun,GO Plus,SUV,Petrol,4799
+Basic Service,Datsun,GO Plus,SUV,CNG,2499
+Standard Service,Datsun,GO Plus,SUV,CNG,3099
+Comprehensive Service,Datsun,GO Plus,SUV,CNG,4799
+Basic Service,Fiat,Adventure,Hatchback,Petrol,3199
+Standard Service,Fiat,Adventure,Hatchback,Petrol,4099
+Comprehensive Service,Fiat,Adventure,Hatchback,Petrol,5699
+Basic Service,Fiat,Adventure,Hatchback,CNG,3199
+Standard Service,Fiat,Adventure,Hatchback,CNG,4099
+Comprehensive Service,Fiat,Adventure,Hatchback,CNG,5699
+Basic Service,Fiat,Adventure,Hatchback,Diesel,3499
+Standard Service,Fiat,Adventure,Hatchback,Diesel,4399
+Comprehensive Service,Fiat,Adventure,Hatchback,Diesel,7799
+Basic Service,Fiat,Avventura,Hatchback,Petrol,3199
+Standard Service,Fiat,Avventura,Hatchback,Petrol,4099
+Comprehensive Service,Fiat,Avventura,Hatchback,Petrol,5699
+Basic Service,Fiat,Avventura,Hatchback,CNG,3199
+Standard Service,Fiat,Avventura,Hatchback,CNG,4099
+Comprehensive Service,Fiat,Avventura,Hatchback,CNG,5699
+Basic Service,Fiat,Avventura,Hatchback,Diesel,3499
+Standard Service,Fiat,Avventura,Hatchback,Diesel,4399
+Comprehensive Service,Fiat,Avventura,Hatchback,Diesel,7799
+Basic Service,Fiat,Linea,Sedan,Petrol,3299
+Standard Service,Fiat,Linea,Sedan,Petrol,4299
+Comprehensive Service,Fiat,Linea,Sedan,Petrol,5899
+Basic Service,Fiat,Linea,Sedan,CNG,3299
+Standard Service,Fiat,Linea,Sedan,CNG,4299
+Comprehensive Service,Fiat,Linea,Sedan,CNG,5899
+Basic Service,Fiat,Linea,Sedan,Diesel,3499
+Standard Service,Fiat,Linea,Sedan,Diesel,4599
+Comprehensive Service,Fiat,Linea,Sedan,Diesel,7899
+Basic Service,Fiat,Linea Classic,Sedan,Petrol,3299
+Standard Service,Fiat,Linea Classic,Sedan,Petrol,4299
+Comprehensive Service,Fiat,Linea Classic,Sedan,Petrol,5899
+Basic Service,Fiat,Linea Classic,Sedan,CNG,3299
+Standard Service,Fiat,Linea Classic,Sedan,CNG,4299
+Comprehensive Service,Fiat,Linea Classic,Sedan,CNG,5899
+Basic Service,Fiat,Linea Classic,Sedan,Diesel,3299
+Standard Service,Fiat,Linea Classic,Sedan,Diesel,4599
+Comprehensive Service,Fiat,Linea Classic,Sedan,Diesel,7899
+Basic Service,Fiat,Palio D,Hatchback,Petrol,3099
+Standard Service,Fiat,Palio D,Hatchback,Petrol,3899
+Comprehensive Service,Fiat,Palio D,Hatchback,Petrol,5899
+Basic Service,Fiat,Palio D,Hatchback,CNG,3099
+Standard Service,Fiat,Palio D,Hatchback,CNG,3899
+Comprehensive Service,Fiat,Palio D,Hatchback,CNG,5899
+Basic Service,Fiat,Palio D,Hatchback,Diesel,3299
+Standard Service,Fiat,Palio D,Hatchback,Diesel,4199
+Comprehensive Service,Fiat,Palio D,Hatchback,Diesel,7199
+Basic Service,Fiat,Palio NV,Hatchback,Petrol,3099
+Standard Service,Fiat,Palio NV,Hatchback,Petrol,3899
+Comprehensive Service,Fiat,Palio NV,Hatchback,Petrol,5899
+Basic Service,Fiat,Palio NV,Hatchback,CNG,3099
+Standard Service,Fiat,Palio NV,Hatchback,CNG,3899
+Comprehensive Service,Fiat,Palio NV,Hatchback,CNG,5899
+Basic Service,Fiat,Palio NV,Hatchback,Diesel,3299
+Standard Service,Fiat,Palio NV,Hatchback,Diesel,4199
+Comprehensive Service,Fiat,Palio NV,Hatchback,Diesel,7199
+Basic Service,Fiat,Palio Stile,Hatchback,Petrol,3099
+Standard Service,Fiat,Palio Stile,Hatchback,Petrol,3899
+Comprehensive Service,Fiat,Palio Stile,Hatchback,Petrol,5899
+Basic Service,Fiat,Palio Stile,Hatchback,CNG,3099
+Standard Service,Fiat,Palio Stile,Hatchback,CNG,3899
+Comprehensive Service,Fiat,Palio Stile,Hatchback,CNG,5899
+Basic Service,Fiat,Palio Stile,Hatchback,Diesel,3299
+Standard Service,Fiat,Palio Stile,Hatchback,Diesel,4199
+Comprehensive Service,Fiat,Palio Stile,Hatchback,Diesel,7199
+Basic Service,Fiat,Petra,Sedan,Petrol,3099
+Standard Service,Fiat,Petra,Sedan,Petrol,3999
+Comprehensive Service,Fiat,Petra,Sedan,Petrol,5899
+Basic Service,Fiat,Petra,Sedan,CNG,3099
+Standard Service,Fiat,Petra,Sedan,CNG,3999
+Comprehensive Service,Fiat,Petra,Sedan,CNG,5899
+Basic Service,Fiat,Petra,Sedan,Diesel,3299
+Standard Service,Fiat,Petra,Sedan,Diesel,4299
+Comprehensive Service,Fiat,Petra,Sedan,Diesel,7199
+Basic Service,Fiat,Punto,Hatchback,Petrol,2599
+Standard Service,Fiat,Punto,Hatchback,Petrol,3099
+Comprehensive Service,Fiat,Punto,Hatchback,Petrol,5399
+Basic Service,Fiat,Punto,Hatchback,CNG,2599
+Standard Service,Fiat,Punto,Hatchback,CNG,3299
+Comprehensive Service,Fiat,Punto,Hatchback,CNG,5399
+Basic Service,Fiat,Punto,Hatchback,Diesel,2599
+Standard Service,Fiat,Punto,Hatchback,Diesel,3299
+Comprehensive Service,Fiat,Punto,Hatchback,Diesel,5399
+Basic Service,Fiat,Punto Evo,Hatchback,Diesel,3499
+Standard Service,Fiat,Punto Evo,Hatchback,Diesel,4399
+Comprehensive Service,Fiat,Punto Evo,Hatchback,Diesel,7799
+Basic Service,Fiat,Uno,Hatchback,Petrol,2999
+Standard Service,Fiat,Uno,Hatchback,Petrol,3799
+Comprehensive Service,Fiat,Uno,Hatchback,Petrol,5399
+Basic Service,Fiat,Uno,Hatchback,CNG,2999
+Standard Service,Fiat,Uno,Hatchback,CNG,3799
+Comprehensive Service,Fiat,Uno,Hatchback,CNG,5399
+Basic Service,Ford,Eco Sport,SUV,Petrol,3199
+Standard Service,Ford,Eco Sport,SUV,Petrol,4199
+Comprehensive Service,Ford,Eco Sport,SUV,Petrol,5899
+Basic Service,Ford,Eco Sport,SUV,CNG,3199
+Standard Service,Ford,Eco Sport,SUV,CNG,4199
+Comprehensive Service,Ford,Eco Sport,SUV,CNG,5899
+Basic Service,Ford,Eco Sport,SUV,Diesel,3099
+Standard Service,Ford,Eco Sport,SUV,Diesel,4199
+Comprehensive Service,Ford,Eco Sport,SUV,Diesel,6899
+Basic Service,Ford,Endeavour,Premium SUV,Diesel,4899
+Standard Service,Ford,Endeavour,Premium SUV,Diesel,8299
+Comprehensive Service,Ford,Endeavour,Premium SUV,Diesel,9299
+Basic Service,Ford,Escort,Sedan,Petrol,3099
+Standard Service,Ford,Escort,Sedan,Petrol,3999
+Comprehensive Service,Ford,Escort,Sedan,Petrol,5999
+Basic Service,Ford,Escort,Sedan,CNG,3099
+Standard Service,Ford,Escort,Sedan,CNG,4099
+Comprehensive Service,Ford,Escort,Sedan,CNG,5999
+Basic Service,Ford,Escort,Sedan,Diesel,3499
+Standard Service,Ford,Escort,Sedan,Diesel,4499
+Comprehensive Service,Ford,Escort,Sedan,Diesel,7499
+Basic Service,Ford,Fiesta,Sedan,Petrol,3299
+Standard Service,Ford,Fiesta,Sedan,Petrol,4299
+Comprehensive Service,Ford,Fiesta,Sedan,Petrol,6199
+Basic Service,Ford,Fiesta,Sedan,CNG,3299
+Standard Service,Ford,Fiesta,Sedan,CNG,4299
+Comprehensive Service,Ford,Fiesta,Sedan,CNG,6199
+Basic Service,Ford,Fiesta,Sedan,Diesel,3499
+Standard Service,Ford,Fiesta,Sedan,Diesel,4499
+Comprehensive Service,Ford,Fiesta,Sedan,Diesel,7499
+Basic Service,Ford,Fiesta Classic,Sedan,Petrol,3299
+Standard Service,Ford,Fiesta Classic,Sedan,Petrol,4299
+Comprehensive Service,Ford,Fiesta Classic,Sedan,Petrol,6199
+Basic Service,Ford,Fiesta Classic,Sedan,CNG,3299
+Standard Service,Ford,Fiesta Classic,Sedan,CNG,4299
+Comprehensive Service,Ford,Fiesta Classic,Sedan,CNG,6199
+Basic Service,Ford,Fiesta Classic,Sedan,Diesel,3499
+Standard Service,Ford,Fiesta Classic,Sedan,Diesel,4499
+Comprehensive Service,Ford,Fiesta Classic,Sedan,Diesel,7499
+Basic Service,Ford,Figo,Hatchback,Petrol,2699
+Standard Service,Ford,Figo,Hatchback,Petrol,3399
+Comprehensive Service,Ford,Figo,Hatchback,Petrol,5899
+Basic Service,Ford,Figo,Hatchback,CNG,2699
+Standard Service,Ford,Figo,Hatchback,CNG,3399
+Comprehensive Service,Ford,Figo,Hatchback,CNG,5899
+Basic Service,Ford,Figo,Hatchback,Diesel,2799
+Standard Service,Ford,Figo,Hatchback,Diesel,3499
+Comprehensive Service,Ford,Figo,Hatchback,Diesel,5999
+Basic Service,Ford,Figo Aspire,Sedan,Petrol,2899
+Standard Service,Ford,Figo Aspire,Sedan,Petrol,3699
+Comprehensive Service,Ford,Figo Aspire,Sedan,Petrol,6099
+Basic Service,Ford,Figo Aspire,Sedan,CNG,2899
+Standard Service,Ford,Figo Aspire,Sedan,CNG,3699
+Comprehensive Service,Ford,Figo Aspire,Sedan,CNG,6099
+Basic Service,Ford,Figo Aspire,Sedan,Diesel,2999
+Standard Service,Ford,Figo Aspire,Sedan,Diesel,3799
+Comprehensive Service,Ford,Figo Aspire,Sedan,Diesel,6299
+Basic Service,Ford,Fusion,Hatchback,Petrol,3199
+Standard Service,Ford,Fusion,Hatchback,Petrol,4099
+Comprehensive Service,Ford,Fusion,Hatchback,Petrol,6099
+Basic Service,Ford,Fusion,Hatchback,CNG,3199
+Standard Service,Ford,Fusion,Hatchback,CNG,4099
+Comprehensive Service,Ford,Fusion,Hatchback,CNG,6099
+Basic Service,Ford,Fusion,Hatchback,Diesel,3299
+Standard Service,Ford,Fusion,Hatchback,Diesel,4199
+Comprehensive Service,Ford,Fusion,Hatchback,Diesel,7299
+Basic Service,Ford,Ikon,Sedan,Petrol,3299
+Standard Service,Ford,Ikon,Sedan,Petrol,4299
+Comprehensive Service,Ford,Ikon,Sedan,Petrol,6199
+Basic Service,Ford,Ikon,Sedan,CNG,3299
+Standard Service,Ford,Ikon,Sedan,CNG,4299
+Comprehensive Service,Ford,Ikon,Sedan,CNG,6199
+Basic Service,Ford,Ikon,Sedan,Diesel,3499
+Standard Service,Ford,Ikon,Sedan,Diesel,4499
+Comprehensive Service,Ford,Ikon,Sedan,Diesel,7499
+Basic Service,Ford,Mondeo,Sedan,Petrol,3299
+Standard Service,Ford,Mondeo,Sedan,Petrol,4299
+Comprehensive Service,Ford,Mondeo,Sedan,Petrol,6199
+Basic Service,Ford,Mondeo,Sedan,CNG,3299
+Standard Service,Ford,Mondeo,Sedan,CNG,4299
+Comprehensive Service,Ford,Mondeo,Sedan,CNG,6199
+Basic Service,Ford,Mondeo,Sedan,Diesel,3499
+Standard Service,Ford,Mondeo,Sedan,Diesel,4499
+Comprehensive Service,Ford,Mondeo,Sedan,Diesel,7499
+Basic Service,Honda,Accord,Premium Sedan,Petrol,3999
+Standard Service,Honda,Accord,Premium Sedan,Petrol,5199
+Comprehensive Service,Honda,Accord,Premium Sedan,Petrol,7499
+Basic Service,Honda,Accord,Premium Sedan,CNG,3999
+Standard Service,Honda,Accord,Premium Sedan,CNG,5199
+Comprehensive Service,Honda,Accord,Premium Sedan,CNG,7499
+Basic Service,Honda,Amaze,Sedan,Petrol,3099
+Standard Service,Honda,Amaze,Sedan,Petrol,3999
+Comprehensive Service,Honda,Amaze,Sedan,Petrol,5899
+Basic Service,Honda,Amaze,Sedan,CNG,3099
+Standard Service,Honda,Amaze,Sedan,CNG,3999
+Comprehensive Service,Honda,Amaze,Sedan,CNG,5899
+Basic Service,Honda,Amaze,Sedan,Diesel,3199
+Standard Service,Honda,Amaze,Sedan,Diesel,4199
+Comprehensive Service,Honda,Amaze,Sedan,Diesel,6499
+Basic Service,Honda,Brio,Hatchback,Petrol,2399
+Standard Service,Honda,Brio,Hatchback,Petrol,2999
+Comprehensive Service,Honda,Brio,Hatchback,Petrol,4999
+Basic Service,Honda,Brio,Hatchback,CNG,2399
+Standard Service,Honda,Brio,Hatchback,CNG,2999
+Comprehensive Service,Honda,Brio,Hatchback,CNG,4999
+Basic Service,Honda,City,Sedan,Petrol,3199
+Standard Service,Honda,City,Sedan,Petrol,4199
+Comprehensive Service,Honda,City,Sedan,Petrol,7199
+Basic Service,Honda,City,Sedan,CNG,3199
+Standard Service,Honda,City,Sedan,CNG,4199
+Comprehensive Service,Honda,City,Sedan,CNG,7199
+Basic Service,Honda,City,Sedan,Diesel,3299
+Standard Service,Honda,City,Sedan,Diesel,4299
+Comprehensive Service,Honda,City,Sedan,Diesel,7399
+Basic Service,Honda,City IVTEC,Premium Sedan,Petrol,3199
+Standard Service,Honda,City IVTEC,Premium Sedan,Petrol,4199
+Comprehensive Service,Honda,City IVTEC,Premium Sedan,Petrol,7199
+Basic Service,Honda,City IVTEC,Premium Sedan,CNG,3199
+Standard Service,Honda,City IVTEC,Premium Sedan,CNG,4199
+Comprehensive Service,Honda,City IVTEC,Premium Sedan,CNG,7199
+Basic Service,Honda,City ZX,Sedan,Petrol,3199
+Standard Service,Honda,City ZX,Sedan,Petrol,4199
+Comprehensive Service,Honda,City ZX,Sedan,Petrol,6099
+Basic Service,Honda,City ZX,Sedan,CNG,3199
+Standard Service,Honda,City ZX,Sedan,CNG,4199
+Comprehensive Service,Honda,City ZX,Sedan,CNG,6099
+Basic Service,Honda,Civic,Premium Sedan,Petrol,3899
+Standard Service,Honda,Civic,Premium Sedan,Petrol,4999
+Comprehensive Service,Honda,Civic,Premium Sedan,Petrol,7299
+Basic Service,Honda,Civic,Premium Sedan,CNG,3899
+Standard Service,Honda,Civic,Premium Sedan,CNG,4999
+Comprehensive Service,Honda,Civic,Premium Sedan,CNG,7299
+Basic Service,Honda,CRV,Premium SUV,Petrol,3999
+Standard Service,Honda,CRV,Premium SUV,Petrol,5899
+Comprehensive Service,Honda,CRV,Premium SUV,Petrol,6899
+Basic Service,Honda,CRV,Premium SUV,CNG,3999
+Standard Service,Honda,CRV,Premium SUV,CNG,5899
+Comprehensive Service,Honda,CRV,Premium SUV,CNG,6899
+Basic Service,Honda,Jazz,Premium Hatchback,Petrol,3199
+Standard Service,Honda,Jazz,Premium Hatchback,Petrol,4099
+Comprehensive Service,Honda,Jazz,Premium Hatchback,Petrol,6099
+Basic Service,Honda,Jazz,Premium Hatchback,CNG,3199
+Standard Service,Honda,Jazz,Premium Hatchback,CNG,4099
+Comprehensive Service,Honda,Jazz,Premium Hatchback,CNG,6099
+Basic Service,Honda,Jazz,Premium Hatchback,Diesel,3299
+Standard Service,Honda,Jazz,Premium Hatchback,Diesel,4199
+Comprehensive Service,Honda,Jazz,Premium Hatchback,Diesel,6699
+Basic Service,Honda,Mobilio,SUV,Petrol,3099
+Standard Service,Honda,Mobilio,SUV,Petrol,3999
+Comprehensive Service,Honda,Mobilio,SUV,Petrol,5899
+Basic Service,Honda,Mobilio,SUV,CNG,3099
+Standard Service,Honda,Mobilio,SUV,CNG,3999
+Comprehensive Service,Honda,Mobilio,SUV,CNG,5899
+Basic Service,Honda,Mobilio,SUV,Diesel,3199
+Standard Service,Honda,Mobilio,SUV,Diesel,4199
+Comprehensive Service,Honda,Mobilio,SUV,Diesel,6499
+Basic Service,Hyundai,Accent,Sedan,Petrol,2899
+Standard Service,Hyundai,Accent,Sedan,Petrol,3699
+Comprehensive Service,Hyundai,Accent,Sedan,Petrol,4799
+Basic Service,Hyundai,Accent,Sedan,CNG,2899
+Standard Service,Hyundai,Accent,Sedan,CNG,3699
+Comprehensive Service,Hyundai,Accent,Sedan,CNG,4799
+Basic Service,Hyundai,Accent,Sedan,Diesel,3099
+Standard Service,Hyundai,Accent,Sedan,Diesel,3899
+Comprehensive Service,Hyundai,Accent,Sedan,Diesel,4999
+Basic Service,Hyundai,Accent Viva,Sedan,Petrol,2899
+Standard Service,Hyundai,Accent Viva,Sedan,Petrol,3699
+Comprehensive Service,Hyundai,Accent Viva,Sedan,Petrol,4799
+Basic Service,Hyundai,Accent Viva,Sedan,CNG,2899
+Standard Service,Hyundai,Accent Viva,Sedan,CNG,3699
+Comprehensive Service,Hyundai,Accent Viva,Sedan,CNG,4799
+Basic Service,Hyundai,Accent Viva,Sedan,Diesel,3999
+Standard Service,Hyundai,Accent Viva,Sedan,Diesel,5199
+Comprehensive Service,Hyundai,Accent Viva,Sedan,Diesel,8599
+Basic Service,Hyundai,Creta,SUV,Petrol,3099
+Standard Service,Hyundai,Creta,SUV,Petrol,4499
+Comprehensive Service,Hyundai,Creta,SUV,Petrol,5499
+Basic Service,Hyundai,Creta,SUV,CNG,3099
+Standard Service,Hyundai,Creta,SUV,CNG,4499
+Comprehensive Service,Hyundai,Creta,SUV,CNG,5499
+Basic Service,Hyundai,Creta,SUV,Diesel,3999
+Standard Service,Hyundai,Creta,SUV,Diesel,4499
+Comprehensive Service,Hyundai,Creta,SUV,Diesel,6299
+Basic Service,Hyundai,Elantra,Premium Sedan,Petrol,3199
+Standard Service,Hyundai,Elantra,Premium Sedan,Petrol,4199
+Comprehensive Service,Hyundai,Elantra,Premium Sedan,Petrol,5699
+Basic Service,Hyundai,Elantra,Premium Sedan,CNG,3199
+Standard Service,Hyundai,Elantra,Premium Sedan,CNG,4199
+Comprehensive Service,Hyundai,Elantra,Premium Sedan,CNG,5699
+Basic Service,Hyundai,Elantra,Premium Sedan,Diesel,3999
+Standard Service,Hyundai,Elantra,Premium Sedan,Diesel,5099
+Comprehensive Service,Hyundai,Elantra,Premium Sedan,Diesel,8399
+Basic Service,Hyundai,Elite i20,Premium Hatchback,Petrol,2599
+Standard Service,Hyundai,Elite i20,Premium Hatchback,Petrol,3199
+Comprehensive Service,Hyundai,Elite i20,Premium Hatchback,Petrol,4199
+Basic Service,Hyundai,Elite i20,Premium Hatchback,CNG,2599
+Standard Service,Hyundai,Elite i20,Premium Hatchback,CNG,3199
+Comprehensive Service,Hyundai,Elite i20,Premium Hatchback,CNG,4199
+Basic Service,Hyundai,Elite i20,Premium Hatchback,Diesel,2599
+Standard Service,Hyundai,Elite i20,Premium Hatchback,Diesel,4099
+Comprehensive Service,Hyundai,Elite i20,Premium Hatchback,Diesel,5799
+Basic Service,Hyundai,Eon,Hatchback,Petrol,2199
+Standard Service,Hyundai,Eon,Hatchback,Petrol,2799
+Comprehensive Service,Hyundai,Eon,Hatchback,Petrol,4099
+Basic Service,Hyundai,Eon,Hatchback,CNG,2199
+Standard Service,Hyundai,Eon,Hatchback,CNG,2799
+Comprehensive Service,Hyundai,Eon,Hatchback,CNG,4099
+Basic Service,Hyundai,Getz,Hatchback,Petrol,2399
+Standard Service,Hyundai,Getz,Hatchback,Petrol,3099
+Comprehensive Service,Hyundai,Getz,Hatchback,Petrol,4499
+Basic Service,Hyundai,Getz,Hatchback,CNG,2399
+Standard Service,Hyundai,Getz,Hatchback,CNG,3099
+Comprehensive Service,Hyundai,Getz,Hatchback,CNG,4399
+Basic Service,Hyundai,Getz Prime,Hatchback,Diesel,3199
+Standard Service,Hyundai,Getz Prime,Hatchback,Diesel,4199
+Comprehensive Service,Hyundai,Getz Prime,Hatchback,Diesel,6099
+Basic Service,Hyundai,i10,Hatchback,Petrol,2199
+Standard Service,Hyundai,i10,Hatchback,Petrol,2799
+Comprehensive Service,Hyundai,i10,Hatchback,Petrol,4499
+Basic Service,Hyundai,Grand i10,Hatchback,CNG,2399
+Standard Service,Hyundai,Grand i10,Hatchback,CNG,2899
+Comprehensive Service,Hyundai,Grand i10,Hatchback,CNG,4699
+Basic Service,Hyundai,Grand i10,Hatchback,Diesel,2399
+Standard Service,Hyundai,Grand i10,Hatchback,Diesel,3099
+Comprehensive Service,Hyundai,Grand i10,Hatchback,Diesel,4699
+Basic Service,Hyundai,i10,Hatchback,CNG,2199
+Standard Service,Hyundai,i10,Hatchback,CNG,2799
+Comprehensive Service,Hyundai,i10,Hatchback,CNG,4499
+Basic Service,Hyundai,i20,Premium Hatchback,Petrol,2599
+Standard Service,Hyundai,i20,Premium Hatchback,Petrol,3199
+Comprehensive Service,Hyundai,i20,Premium Hatchback,Petrol,4199
+Basic Service,Hyundai,i20,Premium Hatchback,CNG,2599
+Standard Service,Hyundai,i20,Premium Hatchback,CNG,3199
+Comprehensive Service,Hyundai,i20,Premium Hatchback,CNG,4299
+Basic Service,Hyundai,i20,Premium Hatchback,Diesel,2599
+Standard Service,Hyundai,i20,Premium Hatchback,Diesel,4099
+Comprehensive Service,Hyundai,i20,Premium Hatchback,Diesel,5799
+Basic Service,Hyundai,i20 Active,Premium Hatchback,Petrol,2799
+Standard Service,Hyundai,i20 Active,Premium Hatchback,Petrol,3999
+Comprehensive Service,Hyundai,i20 Active,Premium Hatchback,Petrol,4499
+Basic Service,Hyundai,i20 Active,Premium Hatchback,CNG,2799
+Standard Service,Hyundai,i20 Active,Premium Hatchback,CNG,3999
+Comprehensive Service,Hyundai,i20 Active,Premium Hatchback,CNG,4499
+Basic Service,Hyundai,i20 Active,Premium Hatchback,Diesel,2799
+Standard Service,Hyundai,i20 Active,Premium Hatchback,Diesel,3999
+Comprehensive Service,Hyundai,i20 Active,Premium Hatchback,Diesel,5999
+Basic Service,Hyundai,SantaFE,Premium SUV,Petrol,5199
+Standard Service,Hyundai,SantaFE,Premium SUV,Petrol,6599
+Comprehensive Service,Hyundai,SantaFE,Premium SUV,Petrol,10299
+Basic Service,Hyundai,SantaFE,Premium SUV,CNG,5199
+Standard Service,Hyundai,SantaFE,Premium SUV,CNG,6599
+Comprehensive Service,Hyundai,SantaFE,Premium SUV,CNG,10299
+Basic Service,Hyundai,Santro Xing,Hatchback,Petrol,2399
+Standard Service,Hyundai,Santro Xing,Hatchback,Petrol,2899
+Comprehensive Service,Hyundai,Santro Xing,Hatchback,Petrol,4399
+Basic Service,Hyundai,Santro Xing,Hatchback,CNG,2399
+Standard Service,Hyundai,Santro Xing,Hatchback,CNG,2899
+Comprehensive Service,Hyundai,Santro Xing,Hatchback,CNG,4399
+Basic Service,Hyundai,Sonata,Premium Sedan,Petrol,3199
+Standard Service,Hyundai,Sonata,Premium Sedan,Petrol,4199
+Comprehensive Service,Hyundai,Sonata,Premium Sedan,Petrol,6299
+Basic Service,Hyundai,Sonata,Premium Sedan,CNG,3199
+Standard Service,Hyundai,Sonata,Premium Sedan,CNG,4199
+Comprehensive Service,Hyundai,Sonata,Premium Sedan,CNG,6299
+Basic Service,Hyundai,Sonata,Premium Sedan,Diesel,3999
+Standard Service,Hyundai,Sonata,Premium Sedan,Diesel,5099
+Comprehensive Service,Hyundai,Sonata,Premium Sedan,Diesel,8999
+Basic Service,Hyundai,Sonata Embera,Premium Sedan,Petrol,3199
+Standard Service,Hyundai,Sonata Embera,Premium Sedan,Petrol,4199
+Comprehensive Service,Hyundai,Sonata Embera,Premium Sedan,Petrol,5699
+Basic Service,Hyundai,Sonata Embera,Premium Sedan,CNG,3199
+Standard Service,Hyundai,Sonata Embera,Premium Sedan,CNG,4199
+Comprehensive Service,Hyundai,Sonata Embera,Premium Sedan,CNG,5699
+Basic Service,Hyundai,Sonata Embera,Premium Sedan,Diesel,3999
+Standard Service,Hyundai,Sonata Embera,Premium Sedan,Diesel,5099
+Comprehensive Service,Hyundai,Sonata Embera,Premium Sedan,Diesel,8399
+Basic Service,Hyundai,Sonata Transform,Premium Sedan,Petrol,3199
+Standard Service,Hyundai,Sonata Transform,Premium Sedan,Petrol,4199
+Comprehensive Service,Hyundai,Sonata Transform,Premium Sedan,Petrol,5699
+Basic Service,Hyundai,Sonata Transform,Premium Sedan,CNG,3199
+Standard Service,Hyundai,Sonata Transform,Premium Sedan,CNG,4199
+Comprehensive Service,Hyundai,Sonata Transform,Premium Sedan,CNG,5699
+Basic Service,Hyundai,Sonata Transform,Premium Sedan,Diesel,3999
+Standard Service,Hyundai,Sonata Transform,Premium Sedan,Diesel,5099
+Comprehensive Service,Hyundai,Sonata Transform,Premium Sedan,Diesel,8399
+Basic Service,Hyundai,Tucson,Premium SUV,Diesel,5199
+Standard Service,Hyundai,Tucson,Premium SUV,Diesel,6599
+Comprehensive Service,Hyundai,Tucson,Premium SUV,Diesel,10299
+Basic Service,Hyundai,Verna,Premium Sedan,Petrol,2999
+Standard Service,Hyundai,Verna,Premium Sedan,Petrol,3899
+Comprehensive Service,Hyundai,Verna,Premium Sedan,Petrol,5099
+Basic Service,Hyundai,Verna,Premium Sedan,CNG,2999
+Standard Service,Hyundai,Verna,Premium Sedan,CNG,3899
+Comprehensive Service,Hyundai,Verna,Premium Sedan,CNG,5099
+Basic Service,Hyundai,Verna,Premium Sedan,Diesel,3999
+Standard Service,Hyundai,Verna,Premium Sedan,Diesel,5099
+Comprehensive Service,Hyundai,Verna,Premium Sedan,Diesel,7199
+Basic Service,Hyundai,Verna Fluidic,Premium Sedan,Petrol,2999
+Standard Service,Hyundai,Verna Fluidic,Premium Sedan,Petrol,3899
+Comprehensive Service,Hyundai,Verna Fluidic,Premium Sedan,Petrol,5099
+Basic Service,Hyundai,Verna Fluidic,Premium Sedan,CNG,2999
+Standard Service,Hyundai,Verna Fluidic,Premium Sedan,CNG,3899
+Comprehensive Service,Hyundai,Verna Fluidic,Premium Sedan,CNG,5099
+Basic Service,Hyundai,Verna Fluidic,Premium Sedan,Diesel,3199
+Standard Service,Hyundai,Verna Fluidic,Premium Sedan,Diesel,5099
+Comprehensive Service,Hyundai,Verna Fluidic,Premium Sedan,Diesel,7399
+Basic Service,Hyundai,Verna Transform,Premium Sedan,Petrol,2999
+Standard Service,Hyundai,Verna Transform,Premium Sedan,Petrol,3899
+Comprehensive Service,Hyundai,Verna Transform,Premium Sedan,Petrol,5099
+Basic Service,Hyundai,Verna Transform,Premium Sedan,CNG,2999
+Standard Service,Hyundai,Verna Transform,Premium Sedan,CNG,3899
+Comprehensive Service,Hyundai,Verna Transform,Premium Sedan,CNG,5099
+Basic Service,Hyundai,Verna Transform,Premium Sedan,Diesel,3999
+Standard Service,Hyundai,Verna Transform,Premium Sedan,Diesel,5099
+Comprehensive Service,Hyundai,Verna Transform,Premium Sedan,Diesel,7399
+Basic Service,Hyundai,Xcent,Sedan,Petrol,2699
+Standard Service,Hyundai,Xcent,Sedan,Petrol,3299
+Comprehensive Service,Hyundai,Xcent,Sedan,Petrol,5399
+Basic Service,Hyundai,Xcent,Sedan,CNG,2699
+Standard Service,Hyundai,Xcent,Sedan,CNG,3299
+Comprehensive Service,Hyundai,Xcent,Sedan,CNG,5399
+Basic Service,Hyundai,Xcent,Sedan,Diesel,2699
+Standard Service,Hyundai,Xcent,Sedan,Diesel,3299
+Comprehensive Service,Hyundai,Xcent,Sedan,Diesel,5399
+Basic Service,Mahindra,Bolero,SUV,Diesel,4399
+Standard Service,Mahindra,Bolero,SUV,Diesel,5599
+Comprehensive Service,Mahindra,Bolero,SUV,Diesel,8099
+Basic Service,Mahindra,Quanto,SUV,Diesel,4399
+Standard Service,Mahindra,Quanto,SUV,Diesel,5599
+Comprehensive Service,Mahindra,Quanto,SUV,Diesel,8099
+Basic Service,Mahindra,Scorpio,SUV,Diesel,4399
+Standard Service,Mahindra,Scorpio,SUV,Diesel,5599
+Comprehensive Service,Mahindra,Scorpio,SUV,Diesel,8099
+Basic Service,Mahindra,Scorpio Getaway,SUV,Diesel,4399
+Standard Service,Mahindra,Scorpio Getaway,SUV,Diesel,5599
+Comprehensive Service,Mahindra,Scorpio Getaway,SUV,Diesel,8099
+Basic Service,Mahindra,Thar,SUV,Diesel,4399
+Standard Service,Mahindra,Thar,SUV,Diesel,5599
+Comprehensive Service,Mahindra,Thar,SUV,Diesel,8099
+Basic Service,Mahindra,Verito,Sedan,Diesel,4399
+Standard Service,Mahindra,Verito,Sedan,Diesel,5599
+Comprehensive Service,Mahindra,Verito,Sedan,Diesel,8099
+Basic Service,Mahindra,Verito Vibe CS,Hatchback,Diesel,4399
+Standard Service,Mahindra,Verito Vibe CS,Hatchback,Diesel,5499
+Comprehensive Service,Mahindra,Verito Vibe CS,Hatchback,Diesel,8099
+Basic Service,Mahindra,XUV 500,SUV,Diesel,4599
+Standard Service,Mahindra,XUV 500,SUV,Diesel,5799
+Comprehensive Service,Mahindra,XUV 500,SUV,Diesel,8299
+Basic Service,Mahindra,Xylo,SUV,Diesel,4399
+Standard Service,Mahindra,Xylo,SUV,Diesel,5599
+Comprehensive Service,Mahindra,Xylo,SUV,Diesel,8099
+Basic Service,Maruti Suzuki,800,Hatchback,Petrol,2199
+Standard Service,Maruti Suzuki,800,Hatchback,Petrol,2699
+Comprehensive Service,Maruti Suzuki,800,Hatchback,Petrol,3499
+Basic Service,Maruti Suzuki,800,Hatchback,CNG,2199
+Standard Service,Maruti Suzuki,800,Hatchback,CNG,2699
+Comprehensive Service,Maruti Suzuki,800,Hatchback,CNG,3499
+Basic Service,Maruti Suzuki,Alto,Hatchback,Petrol,2199
+Standard Service,Maruti Suzuki,Alto,Hatchback,Petrol,2699
+Comprehensive Service,Maruti Suzuki,Alto,Hatchback,Petrol,4099
+Basic Service,Maruti Suzuki,Alto,Hatchback,CNG,2199
+Standard Service,Maruti Suzuki,Alto,Hatchback,CNG,2699
+Comprehensive Service,Maruti Suzuki,Alto,Hatchback,CNG,4099
+Basic Service,Maruti Suzuki,Alto 800,Hatchback,Petrol,2199
+Standard Service,Maruti Suzuki,Alto 800,Hatchback,Petrol,2699
+Comprehensive Service,Maruti Suzuki,Alto 800,Hatchback,Petrol,3499
+Basic Service,Maruti Suzuki,Alto 800,Hatchback,CNG,2199
+Standard Service,Maruti Suzuki,Alto 800,Hatchback,CNG,2699
+Comprehensive Service,Maruti Suzuki,Alto 800,Hatchback,CNG,3499
+Basic Service,Maruti Suzuki,Alto K10,Hatchback,Petrol,2199
+Standard Service,Maruti Suzuki,Alto K10,Hatchback,Petrol,2699
+Comprehensive Service,Maruti Suzuki,Alto K10,Hatchback,Petrol,3699
+Basic Service,Maruti Suzuki,Alto K10,Hatchback,CNG,2199
+Standard Service,Maruti Suzuki,Alto K10,Hatchback,CNG,2699
+Comprehensive Service,Maruti Suzuki,Alto K10,Hatchback,CNG,3699
+Basic Service,Maruti Suzuki,A-Star,Hatchback,Petrol,2399
+Standard Service,Maruti Suzuki,A-Star,Hatchback,Petrol,2899
+Comprehensive Service,Maruti Suzuki,A-Star,Hatchback,Petrol,4399
+Basic Service,Maruti Suzuki,A-Star,Hatchback,CNG,2399
+Standard Service,Maruti Suzuki,A-Star,Hatchback,CNG,2899
+Comprehensive Service,Maruti Suzuki,A-Star,Hatchback,CNG,4399
+Basic Service,Maruti Suzuki,Baleno,Premium Hatchback,Petrol,2599
+Standard Service,Maruti Suzuki,Baleno,Premium Hatchback,Petrol,3099
+Comprehensive Service,Maruti Suzuki,Baleno,Premium Hatchback,Petrol,5399
+Basic Service,Maruti Suzuki,Baleno,Premium Hatchback,CNG,2599
+Standard Service,Maruti Suzuki,Baleno,Premium Hatchback,CNG,3299
+Comprehensive Service,Maruti Suzuki,Baleno,Premium Hatchback,CNG,5399
+Basic Service,Maruti Suzuki,Baleno,Premium Hatchback,Diesel,2599
+Standard Service,Maruti Suzuki,Baleno,Premium Hatchback,Diesel,3299
+Comprehensive Service,Maruti Suzuki,Baleno,Premium Hatchback,Diesel,5399
+Basic Service,Maruti Suzuki,Celerio,Hatchback,Petrol,2499
+Standard Service,Maruti Suzuki,Celerio,Hatchback,Petrol,3199
+Comprehensive Service,Maruti Suzuki,Celerio,Hatchback,Petrol,4599
+Basic Service,Maruti Suzuki,Celerio,Hatchback,CNG,2499
+Standard Service,Maruti Suzuki,Celerio,Hatchback,CNG,3199
+Comprehensive Service,Maruti Suzuki,Celerio,Hatchback,CNG,4599
+Basic Service,Maruti Suzuki,Celerio,Hatchback,Diesel,2599
+Standard Service,Maruti Suzuki,Celerio,Hatchback,Diesel,3299
+Comprehensive Service,Maruti Suzuki,Celerio,Hatchback,Diesel,4799
+Basic Service,Maruti Suzuki,Ciaz,Premium Sedan,Petrol,2999
+Standard Service,Maruti Suzuki,Ciaz,Premium Sedan,Petrol,3899
+Comprehensive Service,Maruti Suzuki,Ciaz,Premium Sedan,Petrol,5399
+Basic Service,Maruti Suzuki,Ciaz,Premium Sedan,CNG,2999
+Standard Service,Maruti Suzuki,Ciaz,Premium Sedan,CNG,3899
+Comprehensive Service,Maruti Suzuki,Ciaz,Premium Sedan,CNG,5399
+Basic Service,Maruti Suzuki,Ciaz,Premium Sedan,Diesel,3199
+Standard Service,Maruti Suzuki,Ciaz,Premium Sedan,Diesel,4799
+Comprehensive Service,Maruti Suzuki,Ciaz,Premium Sedan,Diesel,5599
+Basic Service,Maruti Suzuki,Eeco,SUV,Petrol,2599
+Standard Service,Maruti Suzuki,Eeco,SUV,Petrol,3299
+Comprehensive Service,Maruti Suzuki,Eeco,SUV,Petrol,4599
+Basic Service,Maruti Suzuki,Eeco,SUV,CNG,2599
+Standard Service,Maruti Suzuki,Eeco,SUV,CNG,3299
+Comprehensive Service,Maruti Suzuki,Eeco,SUV,CNG,4599
+Basic Service,Maruti Suzuki,Ertiga,SUV,Petrol,3099
+Standard Service,Maruti Suzuki,Ertiga,SUV,Petrol,3999
+Comprehensive Service,Maruti Suzuki,Ertiga,SUV,Petrol,4599
+Basic Service,Maruti Suzuki,Ertiga,SUV,CNG,3099
+Standard Service,Maruti Suzuki,Ertiga,SUV,CNG,3999
+Comprehensive Service,Maruti Suzuki,Ertiga,SUV,CNG,4599
+Basic Service,Maruti Suzuki,Ertiga,SUV,Diesel,3199
+Standard Service,Maruti Suzuki,Ertiga,SUV,Diesel,4199
+Comprehensive Service,Maruti Suzuki,Ertiga,SUV,Diesel,6499
+Basic Service,Maruti Suzuki,Esteem,Sedan,Petrol,2599
+Standard Service,Maruti Suzuki,Esteem,Sedan,Petrol,3299
+Comprehensive Service,Maruti Suzuki,Esteem,Sedan,Petrol,4399
+Basic Service,Maruti Suzuki,Esteem,Sedan,CNG,2599
+Standard Service,Maruti Suzuki,Esteem,Sedan,CNG,3299
+Comprehensive Service,Maruti Suzuki,Esteem,Sedan,CNG,4399
+Basic Service,Maruti Suzuki,Estilo,Hatchback,Petrol,2599
+Standard Service,Maruti Suzuki,Estilo,Hatchback,Petrol,3199
+Comprehensive Service,Maruti Suzuki,Estilo,Hatchback,Petrol,4399
+Basic Service,Maruti Suzuki,Estilo,Hatchback,CNG,2599
+Standard Service,Maruti Suzuki,Estilo,Hatchback,CNG,3199
+Comprehensive Service,Maruti Suzuki,Estilo,Hatchback,CNG,4399
+Basic Service,Maruti Suzuki,Grand Vitara,SUV,Petrol,3499
+Standard Service,Maruti Suzuki,Grand Vitara,SUV,Petrol,4499
+Comprehensive Service,Maruti Suzuki,Grand Vitara,SUV,Petrol,6299
+Basic Service,Maruti Suzuki,Grand Vitara,SUV,CNG,3499
+Standard Service,Maruti Suzuki,Grand Vitara,SUV,CNG,4499
+Comprehensive Service,Maruti Suzuki,Grand Vitara,SUV,CNG,6299
+Basic Service,Maruti Suzuki,Grand Vitara,SUV,Diesel,4099
+Standard Service,Maruti Suzuki,Grand Vitara,SUV,Diesel,5299
+Comprehensive Service,Maruti Suzuki,Grand Vitara,SUV,Diesel,7899
+Basic Service,Maruti Suzuki,Gypsy,SUV,Petrol,3199
+Standard Service,Maruti Suzuki,Gypsy,SUV,Petrol,4199
+Comprehensive Service,Maruti Suzuki,Gypsy,SUV,Petrol,5999
+Basic Service,Maruti Suzuki,Gypsy,SUV,CNG,3199
+Standard Service,Maruti Suzuki,Gypsy,SUV,CNG,4199
+Comprehensive Service,Maruti Suzuki,Gypsy,SUV,CNG,5999
+Basic Service,Maruti Suzuki,Gypsy,SUV,Diesel,3899
+Standard Service,Maruti Suzuki,Gypsy,SUV,Diesel,4999
+Comprehensive Service,Maruti Suzuki,Gypsy,SUV,Diesel,7599
+Basic Service,Maruti Suzuki,Kizashi,Premium Sedan,Petrol,3499
+Standard Service,Maruti Suzuki,Kizashi,Premium Sedan,Petrol,4499
+Comprehensive Service,Maruti Suzuki,Kizashi,Premium Sedan,Petrol,6299
+Basic Service,Maruti Suzuki,Kizashi,Premium Sedan,CNG,3499
+Standard Service,Maruti Suzuki,Kizashi,Premium Sedan,CNG,4499
+Comprehensive Service,Maruti Suzuki,Kizashi,Premium Sedan,CNG,6299
+Basic Service,Maruti Suzuki,Kizashi,Premium Sedan,Diesel,4099
+Standard Service,Maruti Suzuki,Kizashi,Premium Sedan,Diesel,5299
+Comprehensive Service,Maruti Suzuki,Kizashi,Premium Sedan,Diesel,7899
+Basic Service,Maruti Suzuki,Omni,Hatchback,Petrol,2199
+Standard Service,Maruti Suzuki,Omni,Hatchback,Petrol,2799
+Comprehensive Service,Maruti Suzuki,Omni,Hatchback,Petrol,4199
+Basic Service,Maruti Suzuki,Omni,Hatchback,CNG,2199
+Standard Service,Maruti Suzuki,Omni,Hatchback,CNG,2799
+Comprehensive Service,Maruti Suzuki,Omni,Hatchback,CNG,4099
+Basic Service,Maruti Suzuki,Ritz,Hatchback,Petrol,2199
+Standard Service,Maruti Suzuki,Ritz,Hatchback,Petrol,2899
+Comprehensive Service,Maruti Suzuki,Ritz,Hatchback,Petrol,4599
+Basic Service,Maruti Suzuki,Ritz,Hatchback,CNG,2199
+Standard Service,Maruti Suzuki,Ritz,Hatchback,CNG,2899
+Comprehensive Service,Maruti Suzuki,Ritz,Hatchback,CNG,4599
+Basic Service,Maruti Suzuki,Ritz,Hatchback,Diesel,2399
+Standard Service,Maruti Suzuki,Ritz,Hatchback,Diesel,2899
+Comprehensive Service,Maruti Suzuki,Ritz,Hatchback,Diesel,4799
+Basic Service,Maruti Suzuki,S-Cross,SUV,Petrol,2699
+Standard Service,Maruti Suzuki,S-Cross,SUV,Petrol,3299
+Comprehensive Service,Maruti Suzuki,S-Cross,SUV,Petrol,4899
+Basic Service,Maruti Suzuki,S-Cross,SUV,CNG,2699
+Standard Service,Maruti Suzuki,S-Cross,SUV,CNG,3299
+Comprehensive Service,Maruti Suzuki,S-Cross,SUV,CNG,4899
+Basic Service,Maruti Suzuki,S-Cross,SUV,Diesel,2899
+Standard Service,Maruti Suzuki,S-Cross,SUV,Diesel,3699
+Comprehensive Service,Maruti Suzuki,S-Cross,SUV,Diesel,6099
+Basic Service,Maruti Suzuki,Swift,Hatchback,Petrol,2499
+Standard Service,Maruti Suzuki,Swift,Hatchback,Petrol,2999
+Comprehensive Service,Maruti Suzuki,Swift,Hatchback,Petrol,4599
+Basic Service,Maruti Suzuki,Swift,Hatchback,CNG,2499
+Standard Service,Maruti Suzuki,Swift,Hatchback,CNG,2999
+Comprehensive Service,Maruti Suzuki,Swift,Hatchback,CNG,4399
+Basic Service,Maruti Suzuki,Swift,Hatchback,Diesel,2599
+Standard Service,Maruti Suzuki,Swift,Hatchback,Diesel,3299
+Comprehensive Service,Maruti Suzuki,Swift,Hatchback,Diesel,4899
+Basic Service,Maruti Suzuki,Swift Dzire,Sedan,Petrol,2699
+Standard Service,Maruti Suzuki,Swift Dzire,Sedan,Petrol,3099
+Comprehensive Service,Maruti Suzuki,Swift Dzire,Sedan,Petrol,5399
+Basic Service,Maruti Suzuki,Swift Dzire,Sedan,CNG,2699
+Standard Service,Maruti Suzuki,Swift Dzire,Sedan,CNG,3099
+Comprehensive Service,Maruti Suzuki,Swift Dzire,Sedan,CNG,5399
+Basic Service,Maruti Suzuki,Swift Dzire,Sedan,Diesel,2699
+Standard Service,Maruti Suzuki,Swift Dzire,Sedan,Diesel,3399
+Comprehensive Service,Maruti Suzuki,Swift Dzire,Sedan,Diesel,4899
+Basic Service,Maruti Suzuki,SX4,Sedan,Petrol,3099
+Standard Service,Maruti Suzuki,SX4,Sedan,Petrol,4099
+Comprehensive Service,Maruti Suzuki,SX4,Sedan,Petrol,5399
+Basic Service,Maruti Suzuki,SX4,Sedan,CNG,3099
+Standard Service,Maruti Suzuki,SX4,Sedan,CNG,4099
+Comprehensive Service,Maruti Suzuki,SX4,Sedan,CNG,5399
+Basic Service,Maruti Suzuki,SX4,Sedan,Diesel,3499
+Standard Service,Maruti Suzuki,SX4,Sedan,Diesel,4499
+Comprehensive Service,Maruti Suzuki,SX4,Sedan,Diesel,6799
+Basic Service,Maruti Suzuki,Versa,SUV,Petrol,2999
+Standard Service,Maruti Suzuki,Versa,SUV,Petrol,3899
+Comprehensive Service,Maruti Suzuki,Versa,SUV,Petrol,4999
+Basic Service,Maruti Suzuki,Versa,SUV,CNG,2999
+Standard Service,Maruti Suzuki,Versa,SUV,CNG,3899
+Comprehensive Service,Maruti Suzuki,Versa,SUV,CNG,4999
+Basic Service,Maruti Suzuki,WagonR,Hatchback,Petrol,2199
+Standard Service,Maruti Suzuki,WagonR,Hatchback,Petrol,2799
+Comprehensive Service,Maruti Suzuki,WagonR,Hatchback,Petrol,4199
+Basic Service,Maruti Suzuki,WagonR,Hatchback,CNG,2199
+Standard Service,Maruti Suzuki,WagonR,Hatchback,CNG,2799
+Comprehensive Service,Maruti Suzuki,WagonR,Hatchback,CNG,4099
+Basic Service,Maruti Suzuki,Zen,Hatchback,Petrol,2199
+Standard Service,Maruti Suzuki,Zen,Hatchback,Petrol,2899
+Comprehensive Service,Maruti Suzuki,Zen,Hatchback,Petrol,4599
+Basic Service,Maruti Suzuki,Zen,Hatchback,CNG,2199
+Standard Service,Maruti Suzuki,Zen,Hatchback,CNG,2899
+Comprehensive Service,Maruti Suzuki,Zen,Hatchback,CNG,4599
+Basic Service,Mitsubishi,Pajero,Premium SUV,Diesel,5699
+Standard Service,Mitsubishi,Pajero,Premium SUV,Diesel,7299
+Comprehensive Service,Mitsubishi,Pajero,Premium SUV,Diesel,11199
+Basic Service,Mitsubishi,Pajero Sport,Premium SUV,Diesel,5699
+Standard Service,Mitsubishi,Pajero Sport,Premium SUV,Diesel,7299
+Comprehensive Service,Mitsubishi,Pajero Sport,Premium SUV,Diesel,11199
+Basic Service,Nissan,Evalia,SUV,Diesel,4399
+Standard Service,Nissan,Evalia,SUV,Diesel,5599
+Comprehensive Service,Nissan,Evalia,SUV,Diesel,9399
+Basic Service,Nissan,Micra,Hatchback,Petrol,2899
+Standard Service,Nissan,Micra,Hatchback,Petrol,3299
+Comprehensive Service,Nissan,Micra,Hatchback,Petrol,5499
+Basic Service,Nissan,Micra,Hatchback,CNG,2899
+Standard Service,Nissan,Micra,Hatchback,CNG,3299
+Comprehensive Service,Nissan,Micra,Hatchback,CNG,5499
+Basic Service,Nissan,Micra Active,Hatchback,Petrol,2899
+Standard Service,Nissan,Micra Active,Hatchback,Petrol,3299
+Comprehensive Service,Nissan,Micra Active,Hatchback,Petrol,5499
+Basic Service,Nissan,Micra Active,Hatchback,CNG,2899
+Standard Service,Nissan,Micra Active,Hatchback,CNG,3299
+Comprehensive Service,Nissan,Micra Active,Hatchback,CNG,5499
+Basic Service,Nissan,Sunny,Premium Sedan,Diesel,3999
+Standard Service,Nissan,Sunny,Premium Sedan,Diesel,5199
+Comprehensive Service,Nissan,Sunny,Premium Sedan,Diesel,7899
+Basic Service,Nissan,Teana,Premium Sedan,Diesel,4399
+Standard Service,Nissan,Teana,Premium Sedan,Diesel,5699
+Comprehensive Service,Nissan,Teana,Premium Sedan,Diesel,8499
+Basic Service,Nissan,Terrano,SUV,Diesel,4299
+Standard Service,Nissan,Terrano,SUV,Diesel,5499
+Comprehensive Service,Nissan,Terrano,SUV,Diesel,9299
+Basic Service,Nissan,X-Trail,SUV,Diesel,4599
+Standard Service,Nissan,X-Trail,SUV,Diesel,5899
+Comprehensive Service,Nissan,X-Trail,SUV,Diesel,9699
+Basic Service,Renault,Duster,SUV,Diesel,4299
+Standard Service,Renault,Duster,SUV,Diesel,5499
+Comprehensive Service,Renault,Duster,SUV,Diesel,9299
+Basic Service,Renault,Fluence,Premium Sedan,Petrol,3499
+Standard Service,Renault,Fluence,Premium Sedan,Petrol,4499
+Comprehensive Service,Renault,Fluence,Premium Sedan,Petrol,6299
+Basic Service,Renault,Fluence,Premium Sedan,CNG,3499
+Standard Service,Renault,Fluence,Premium Sedan,CNG,4499
+Comprehensive Service,Renault,Fluence,Premium Sedan,CNG,6299
+Basic Service,Renault,Fluence,Premium Sedan,Diesel,3999
+Standard Service,Renault,Fluence,Premium Sedan,Diesel,5199
+Comprehensive Service,Renault,Fluence,Premium Sedan,Diesel,7899
+Basic Service,Renault,Koleos,Premium SUV,Diesel,4599
+Standard Service,Renault,Koleos,Premium SUV,Diesel,5899
+Comprehensive Service,Renault,Koleos,Premium SUV,Diesel,9699
+Basic Service,Renault,Lodgy,SUV,Diesel,4399
+Standard Service,Renault,Lodgy,SUV,Diesel,5599
+Comprehensive Service,Renault,Lodgy,SUV,Diesel,9399
+Basic Service,Renault,Pulse,Hatchback,Petrol,2899
+Standard Service,Renault,Pulse,Hatchback,Petrol,3599
+Comprehensive Service,Renault,Pulse,Hatchback,Petrol,5399
+Basic Service,Renault,Pulse,Hatchback,CNG,2899
+Standard Service,Renault,Pulse,Hatchback,CNG,3599
+Comprehensive Service,Renault,Pulse,Hatchback,CNG,5399
+Basic Service,Renault,Pulse,Hatchback,Diesel,3299
+Standard Service,Renault,Pulse,Hatchback,Diesel,4199
+Comprehensive Service,Renault,Pulse,Hatchback,Diesel,6799
+Basic Service,Renault,Scala,Premium Sedan,Petrol,3499
+Standard Service,Renault,Scala,Premium Sedan,Petrol,4499
+Comprehensive Service,Renault,Scala,Premium Sedan,Petrol,6299
+Basic Service,Renault,Scala,Premium Sedan,CNG,3499
+Standard Service,Renault,Scala,Premium Sedan,CNG,4499
+Comprehensive Service,Renault,Scala,Premium Sedan,CNG,6299
+Basic Service,Renault,Scala,Premium Sedan,Diesel,3999
+Standard Service,Renault,Scala,Premium Sedan,Diesel,5199
+Comprehensive Service,Renault,Scala,Premium Sedan,Diesel,7899
+Basic Service,Skoda,Fabia,Premium Hatchback,Petrol,4199
+Standard Service,Skoda,Fabia,Premium Hatchback,Petrol,5399
+Comprehensive Service,Skoda,Fabia,Premium Hatchback,Petrol,7799
+Basic Service,Skoda,Fabia,Premium Hatchback,CNG,4199
+Standard Service,Skoda,Fabia,Premium Hatchback,CNG,5399
+Comprehensive Service,Skoda,Fabia,Premium Hatchback,CNG,7799
+Basic Service,Skoda,Fabia,Premium Hatchback,Diesel,4199
+Standard Service,Skoda,Fabia,Premium Hatchback,Diesel,5399
+Comprehensive Service,Skoda,Fabia,Premium Hatchback,Diesel,8499
+Basic Service,Skoda,Fabia Scout,Premium Hatchback,Petrol,4199
+Standard Service,Skoda,Fabia Scout,Premium Hatchback,Petrol,5399
+Comprehensive Service,Skoda,Fabia Scout,Premium Hatchback,Petrol,7799
+Basic Service,Skoda,Fabia Scout,Premium Hatchback,CNG,4199
+Standard Service,Skoda,Fabia Scout,Premium Hatchback,CNG,5399
+Comprehensive Service,Skoda,Fabia Scout,Premium Hatchback,CNG,7799
+Basic Service,Skoda,Fabia Scout,Premium Hatchback,Diesel,4199
+Standard Service,Skoda,Fabia Scout,Premium Hatchback,Diesel,5399
+Comprehensive Service,Skoda,Fabia Scout,Premium Hatchback,Diesel,8499
+Basic Service,Skoda,Laura,Premium Sedan,Diesel,4599
+Standard Service,Skoda,Laura,Premium Sedan,Diesel,6099
+Comprehensive Service,Skoda,Laura,Premium Sedan,Diesel,8599
+Basic Service,Skoda,Octavia,Premium Sedan,Petrol,4599
+Standard Service,Skoda,Octavia,Premium Sedan,Petrol,5699
+Comprehensive Service,Skoda,Octavia,Premium Sedan,Petrol,7799
+Basic Service,Skoda,Octavia,Premium Sedan,CNG,4599
+Standard Service,Skoda,Octavia,Premium Sedan,CNG,5699
+Comprehensive Service,Skoda,Octavia,Premium Sedan,CNG,7799
+Basic Service,Skoda,Octavia,Premium Sedan,Diesel,4599
+Standard Service,Skoda,Octavia,Premium Sedan,Diesel,6099
+Comprehensive Service,Skoda,Octavia,Premium Sedan,Diesel,8999
+Basic Service,Skoda,Rapid,Premium Sedan,Petrol,4599
+Standard Service,Skoda,Rapid,Premium Sedan,Petrol,5699
+Comprehensive Service,Skoda,Rapid,Premium Sedan,Petrol,7899
+Basic Service,Skoda,Rapid,Premium Sedan,CNG,4599
+Standard Service,Skoda,Rapid,Premium Sedan,CNG,5699
+Comprehensive Service,Skoda,Rapid,Premium Sedan,CNG,7899
+Basic Service,Skoda,Rapid,Premium Sedan,Diesel,4599
+Standard Service,Skoda,Rapid,Premium Sedan,Diesel,6099
+Comprehensive Service,Skoda,Rapid,Premium Sedan,Diesel,9299
+Basic Service,Skoda,Superb,Premium Sedan,Petrol,5499
+Standard Service,Skoda,Superb,Premium Sedan,Petrol,6999
+Comprehensive Service,Skoda,Superb,Premium Sedan,Petrol,9199
+Basic Service,Skoda,Superb,Premium Sedan,CNG,5499
+Standard Service,Skoda,Superb,Premium Sedan,CNG,6999
+Comprehensive Service,Skoda,Superb,Premium Sedan,CNG,9199
+Basic Service,Skoda,Superb,Premium Sedan,Diesel,5499
+Standard Service,Skoda,Superb,Premium Sedan,Diesel,6999
+Comprehensive Service,Skoda,Superb,Premium Sedan,Diesel,10599
+Basic Service,Skoda,Yeti,Premium SUV,Diesel,4999
+Standard Service,Skoda,Yeti,Premium SUV,Diesel,6999
+Comprehensive Service,Skoda,Yeti,Premium SUV,Diesel,10599
+Basic Service,Tata,Aria,SUV,Petrol,4399
+Standard Service,Tata,Aria,SUV,Petrol,5599
+Comprehensive Service,Tata,Aria,SUV,Petrol,8099
+Basic Service,Tata,Aria,SUV,CNG,4399
+Standard Service,Tata,Aria,SUV,CNG,5599
+Comprehensive Service,Tata,Aria,SUV,CNG,8099
+Basic Service,Tata,Aria,SUV,Diesel,4399
+Standard Service,Tata,Aria,SUV,Diesel,5599
+Comprehensive Service,Tata,Aria,SUV,Diesel,8099
+Basic Service,Tata,Bolt,Hatchback,Petrol,2799
+Standard Service,Tata,Bolt,Hatchback,Petrol,3499
+Comprehensive Service,Tata,Bolt,Hatchback,Petrol,4299
+Basic Service,Tata,Bolt,Hatchback,CNG,2799
+Standard Service,Tata,Bolt,Hatchback,CNG,3499
+Comprehensive Service,Tata,Bolt,Hatchback,CNG,4299
+Basic Service,Tata,Bolt,Hatchback,Diesel,3299
+Standard Service,Tata,Bolt,Hatchback,Diesel,4199
+Comprehensive Service,Tata,Bolt,Hatchback,Diesel,7499
+Basic Service,Tata,Indica,Hatchback,Petrol,2799
+Standard Service,Tata,Indica,Hatchback,Petrol,3499
+Comprehensive Service,Tata,Indica,Hatchback,Petrol,4299
+Basic Service,Tata,Indica,Hatchback,CNG,2799
+Standard Service,Tata,Indica,Hatchback,CNG,3499
+Comprehensive Service,Tata,Indica,Hatchback,CNG,4299
+Basic Service,Tata,Indica,Hatchback,Diesel,3099
+Standard Service,Tata,Indica,Hatchback,Diesel,3999
+Comprehensive Service,Tata,Indica,Hatchback,Diesel,5399
+Basic Service,Tata,Indica eV2,Hatchback,Petrol,2799
+Standard Service,Tata,Indica eV2,Hatchback,Petrol,3499
+Comprehensive Service,Tata,Indica eV2,Hatchback,Petrol,4299
+Basic Service,Tata,Indica eV2,Hatchback,CNG,2799
+Standard Service,Tata,Indica eV2,Hatchback,CNG,3499
+Comprehensive Service,Tata,Indica eV2,Hatchback,CNG,4299
+Basic Service,Tata,Indica eV2,Hatchback,Diesel,3099
+Standard Service,Tata,Indica eV2,Hatchback,Diesel,3999
+Comprehensive Service,Tata,Indica eV2,Hatchback,Diesel,5399
+Basic Service,Tata,Indica V2,Hatchback,Petrol,2799
+Standard Service,Tata,Indica V2,Hatchback,Petrol,3499
+Comprehensive Service,Tata,Indica V2,Hatchback,Petrol,4299
+Basic Service,Tata,Indica V2,Hatchback,CNG,2799
+Standard Service,Tata,Indica V2,Hatchback,CNG,3499
+Comprehensive Service,Tata,Indica V2,Hatchback,CNG,4299
+Basic Service,Tata,Indica V2,Hatchback,Diesel,3099
+Standard Service,Tata,Indica V2,Hatchback,Diesel,3999
+Comprehensive Service,Tata,Indica V2,Hatchback,Diesel,5399
+Basic Service,Tata,Indica Vista,Hatchback,Petrol,2799
+Standard Service,Tata,Indica Vista,Hatchback,Petrol,3499
+Comprehensive Service,Tata,Indica Vista,Hatchback,Petrol,4299
+Basic Service,Tata,Indica Vista,Hatchback,CNG,2799
+Standard Service,Tata,Indica Vista,Hatchback,CNG,3499
+Comprehensive Service,Tata,Indica Vista,Hatchback,CNG,4299
+Basic Service,Tata,Indica Vista,Hatchback,Diesel,3099
+Standard Service,Tata,Indica Vista,Hatchback,Diesel,3999
+Comprehensive Service,Tata,Indica Vista,Hatchback,Diesel,6499
+Basic Service,Tata,Indigo,Sedan,Petrol,2799
+Standard Service,Tata,Indigo,Sedan,Petrol,3599
+Comprehensive Service,Tata,Indigo,Sedan,Petrol,4299
+Basic Service,Tata,Indigo,Sedan,CNG,2799
+Standard Service,Tata,Indigo,Sedan,CNG,3599
+Comprehensive Service,Tata,Indigo,Sedan,CNG,4299
+Basic Service,Tata,Indigo,Sedan,Diesel,3099
+Standard Service,Tata,Indigo,Sedan,Diesel,4099
+Comprehensive Service,Tata,Indigo,Sedan,Diesel,5699
+Basic Service,Tata,Indigo CS,Sedan,Petrol,2799
+Standard Service,Tata,Indigo CS,Sedan,Petrol,3599
+Comprehensive Service,Tata,Indigo CS,Sedan,Petrol,4299
+Basic Service,Tata,Indigo CS,Sedan,CNG,2799
+Standard Service,Tata,Indigo CS,Sedan,CNG,3599
+Comprehensive Service,Tata,Indigo CS,Sedan,CNG,4299
+Basic Service,Tata,Indigo CS,Sedan,Diesel,3099
+Standard Service,Tata,Indigo CS,Sedan,Diesel,4099
+Comprehensive Service,Tata,Indigo CS,Sedan,Diesel,7499
+Basic Service,Tata,Indigo eCS,Sedan,Petrol,2799
+Standard Service,Tata,Indigo eCS,Sedan,Petrol,3599
+Comprehensive Service,Tata,Indigo eCS,Sedan,Petrol,4299
+Basic Service,Tata,Indigo eCS,Sedan,CNG,2799
+Standard Service,Tata,Indigo eCS,Sedan,CNG,3599
+Comprehensive Service,Tata,Indigo eCS,Sedan,CNG,4299
+Basic Service,Tata,Indigo eCS,Sedan,Diesel,3099
+Standard Service,Tata,Indigo eCS,Sedan,Diesel,4099
+Comprehensive Service,Tata,Indigo eCS,Sedan,Diesel,7499
+Basic Service,Tata,Indigo Marina,Sedan,Petrol,2799
+Standard Service,Tata,Indigo Marina,Sedan,Petrol,3599
+Comprehensive Service,Tata,Indigo Marina,Sedan,Petrol,4299
+Basic Service,Tata,Indigo Marina,Sedan,CNG,2799
+Standard Service,Tata,Indigo Marina,Sedan,CNG,3599
+Comprehensive Service,Tata,Indigo Marina,Sedan,CNG,4299
+Basic Service,Tata,Indigo Marina,Sedan,Diesel,3099
+Standard Service,Tata,Indigo Marina,Sedan,Diesel,4099
+Comprehensive Service,Tata,Indigo Marina,Sedan,Diesel,7499
+Basic Service,Tata,Indigo XL,Sedan,Petrol,2799
+Standard Service,Tata,Indigo XL,Sedan,Petrol,3599
+Comprehensive Service,Tata,Indigo XL,Sedan,Petrol,4299
+Basic Service,Tata,Indigo XL,Sedan,CNG,2799
+Standard Service,Tata,Indigo XL,Sedan,CNG,3599
+Comprehensive Service,Tata,Indigo XL,Sedan,CNG,4299
+Basic Service,Tata,Indigo XL,Sedan,Diesel,3099
+Standard Service,Tata,Indigo XL,Sedan,Diesel,4099
+Comprehensive Service,Tata,Indigo XL,Sedan,Diesel,7499
+Basic Service,Tata,Manza,Sedan,Petrol,2799
+Standard Service,Tata,Manza,Sedan,Petrol,3599
+Comprehensive Service,Tata,Manza,Sedan,Petrol,4899
+Basic Service,Tata,Manza,Sedan,CNG,2799
+Standard Service,Tata,Manza,Sedan,CNG,3599
+Comprehensive Service,Tata,Manza,Sedan,CNG,4899
+Basic Service,Tata,Manza,Sedan,Diesel,3499
+Standard Service,Tata,Manza,Sedan,Diesel,4599
+Comprehensive Service,Tata,Manza,Sedan,Diesel,7799
+Basic Service,Tata,Nano,Hatchback,Petrol,2099
+Standard Service,Tata,Nano,Hatchback,Petrol,2699
+Comprehensive Service,Tata,Nano,Hatchback,Petrol,3399
+Basic Service,Tata,Nano,Hatchback,CNG,2099
+Standard Service,Tata,Nano,Hatchback,CNG,2699
+Comprehensive Service,Tata,Nano,Hatchback,CNG,3399
+Basic Service,Tata,Nano Genx,Hatchback,Petrol,2099
+Standard Service,Tata,Nano Genx,Hatchback,Petrol,2699
+Comprehensive Service,Tata,Nano Genx,Hatchback,Petrol,3399
+Basic Service,Tata,Nano Genx,Hatchback,CNG,2099
+Standard Service,Tata,Nano Genx,Hatchback,CNG,2699
+Comprehensive Service,Tata,Nano Genx,Hatchback,CNG,3399
+Basic Service,Tata,Safari,SUV,Diesel,5299
+Standard Service,Tata,Safari,SUV,Diesel,6799
+Comprehensive Service,Tata,Safari,SUV,Diesel,10499
+Basic Service,Tata,Safari Storme,SUV,Diesel,5299
+Standard Service,Tata,Safari Storme,SUV,Diesel,6799
+Comprehensive Service,Tata,Safari Storme,SUV,Diesel,10499
+Basic Service,Tata,Sumo Gold,SUV,Diesel,4899
+Standard Service,Tata,Sumo Gold,SUV,Diesel,6199
+Comprehensive Service,Tata,Sumo Gold,SUV,Diesel,9699
+Basic Service,Tata,Sumo Grande,SUV,Diesel,4899
+Standard Service,Tata,Sumo Grande,SUV,Diesel,6199
+Comprehensive Service,Tata,Sumo Grande,SUV,Diesel,9699
+Basic Service,Tata,Sumo Grande MK II,SUV,Diesel,4899
+Standard Service,Tata,Sumo Grande MK II,SUV,Diesel,6199
+Comprehensive Service,Tata,Sumo Grande MK II,SUV,Diesel,9699
+Basic Service,Tata,Sumo Spacio,SUV,Diesel,4899
+Standard Service,Tata,Sumo Spacio,SUV,Diesel,6199
+Comprehensive Service,Tata,Sumo Spacio,SUV,Diesel,9699
+Basic Service,Tata,Sumo Victa,SUV,Diesel,4899
+Standard Service,Tata,Sumo Victa,SUV,Diesel,6199
+Comprehensive Service,Tata,Sumo Victa,SUV,Diesel,9699
+Basic Service,Tata,Zest,Sedan,Petrol,3099
+Standard Service,Tata,Zest,Sedan,Petrol,3999
+Comprehensive Service,Tata,Zest,Sedan,Petrol,4899
+Basic Service,Tata,Zest,Sedan,CNG,3099
+Standard Service,Tata,Zest,Sedan,CNG,3999
+Comprehensive Service,Tata,Zest,Sedan,CNG,4899
+Basic Service,Tata,Zest,Sedan,Diesel,3499
+Standard Service,Tata,Zest,Sedan,Diesel,4599
+Comprehensive Service,Tata,Zest,Sedan,Diesel,7699
+Basic Service,Toyota,Camry,Premium Sedan,Petrol,4999
+Standard Service,Toyota,Camry,Premium Sedan,Petrol,7399
+Comprehensive Service,Toyota,Camry,Premium Sedan,Petrol,9399
+Basic Service,Toyota,Camry,Premium Sedan,CNG,4999
+Standard Service,Toyota,Camry,Premium Sedan,CNG,7399
+Comprehensive Service,Toyota,Camry,Premium Sedan,CNG,9399
+Basic Service,Toyota,Corolla,Sedan,Petrol,3999
+Standard Service,Toyota,Corolla,Sedan,Petrol,5499
+Comprehensive Service,Toyota,Corolla,Sedan,Petrol,6999
+Basic Service,Toyota,Corolla,Sedan,CNG,3999
+Standard Service,Toyota,Corolla,Sedan,CNG,5499
+Comprehensive Service,Toyota,Corolla,Sedan,CNG,6999
+Basic Service,Toyota,Corolla,Sedan,Diesel,4399
+Standard Service,Toyota,Corolla,Sedan,Diesel,5499
+Comprehensive Service,Toyota,Corolla,Sedan,Diesel,8699
+Basic Service,Toyota,Corolla Altis,Premium Sedan,Petrol,3999
+Standard Service,Toyota,Corolla Altis,Premium Sedan,Petrol,5499
+Comprehensive Service,Toyota,Corolla Altis,Premium Sedan,Petrol,6999
+Basic Service,Toyota,Corolla Altis,Premium Sedan,CNG,3999
+Standard Service,Toyota,Corolla Altis,Premium Sedan,CNG,5499
+Comprehensive Service,Toyota,Corolla Altis,Premium Sedan,CNG,6999
+Basic Service,Toyota,Corolla Altis,Premium Sedan,Diesel,4399
+Standard Service,Toyota,Corolla Altis,Premium Sedan,Diesel,5899
+Comprehensive Service,Toyota,Corolla Altis,Premium Sedan,Diesel,8699
+Basic Service,Toyota,Etios,Sedan,Petrol,2699
+Standard Service,Toyota,Etios,Sedan,Petrol,3499
+Comprehensive Service,Toyota,Etios,Sedan,Petrol,4599
+Basic Service,Toyota,Etios,Sedan,CNG,2699
+Standard Service,Toyota,Etios,Sedan,CNG,3499
+Comprehensive Service,Toyota,Etios,Sedan,CNG,4599
+Basic Service,Toyota,Etios,Sedan,Diesel,3199
+Standard Service,Toyota,Etios,Sedan,Diesel,4099
+Comprehensive Service,Toyota,Etios,Sedan,Diesel,6199
+Basic Service,Toyota,Etios Cross,Hatchback,Petrol,2699
+Standard Service,Toyota,Etios Cross,Hatchback,Petrol,3399
+Comprehensive Service,Toyota,Etios Cross,Hatchback,Petrol,4599
+Basic Service,Toyota,Etios Cross,Hatchback,CNG,2699
+Standard Service,Toyota,Etios Cross,Hatchback,CNG,3399
+Comprehensive Service,Toyota,Etios Cross,Hatchback,CNG,4599
+Basic Service,Toyota,Etios Cross,Hatchback,Diesel,3199
+Standard Service,Toyota,Etios Cross,Hatchback,Diesel,3999
+Comprehensive Service,Toyota,Etios Cross,Hatchback,Diesel,6199
+Basic Service,Toyota,Etios Liva,Hatchback,Petrol,2699
+Standard Service,Toyota,Etios Liva,Hatchback,Petrol,3399
+Comprehensive Service,Toyota,Etios Liva,Hatchback,Petrol,4599
+Basic Service,Toyota,Etios Liva,Hatchback,CNG,2699
+Standard Service,Toyota,Etios Liva,Hatchback,CNG,3399
+Comprehensive Service,Toyota,Etios Liva,Hatchback,CNG,4599
+Basic Service,Toyota,Etios Liva,Hatchback,Diesel,3199
+Standard Service,Toyota,Etios Liva,Hatchback,Diesel,3999
+Comprehensive Service,Toyota,Etios Liva,Hatchback,Diesel,6199
+Basic Service,Toyota,Fortuner,Premium SUV,Diesel,5599
+Standard Service,Toyota,Fortuner,Premium SUV,Diesel,8899
+Comprehensive Service,Toyota,Fortuner,Premium SUV,Diesel,10999
+Basic Service,Toyota,Innova,SUV,Diesel,4999
+Standard Service,Toyota,Innova,SUV,Diesel,6199
+Comprehensive Service,Toyota,Innova,SUV,Diesel,8599
+Basic Service,Volkswagen,Cross Polo,Premium Hatchback,Petrol,3299
+Standard Service,Volkswagen,Cross Polo,Premium Hatchback,Petrol,4199
+Comprehensive Service,Volkswagen,Cross Polo,Premium Hatchback,Petrol,6299
+Basic Service,Volkswagen,Cross Polo,Premium Hatchback,CNG,3299
+Standard Service,Volkswagen,Cross Polo,Premium Hatchback,CNG,4199
+Comprehensive Service,Volkswagen,Cross Polo,Premium Hatchback,CNG,6299
+Basic Service,Volkswagen,Cross Polo,Premium Hatchback,Diesel,3499
+Standard Service,Volkswagen,Cross Polo,Premium Hatchback,Diesel,4499
+Comprehensive Service,Volkswagen,Cross Polo,Premium Hatchback,Diesel,7199
+Basic Service,Volkswagen,Jetta,Premium Sedan,Petrol,3499
+Standard Service,Volkswagen,Jetta,Premium Sedan,Petrol,5599
+Comprehensive Service,Volkswagen,Jetta,Premium Sedan,Petrol,7899
+Basic Service,Volkswagen,Jetta,Premium Sedan,CNG,3499
+Standard Service,Volkswagen,Jetta,Premium Sedan,CNG,5599
+Comprehensive Service,Volkswagen,Jetta,Premium Sedan,CNG,7899
+Basic Service,Volkswagen,Jetta,Premium Sedan,Diesel,3799
+Standard Service,Volkswagen,Jetta,Premium Sedan,Diesel,5799
+Comprehensive Service,Volkswagen,Jetta,Premium Sedan,Diesel,9299
+Basic Service,Volkswagen,Passat,Premium Sedan,Petrol,3299
+Standard Service,Volkswagen,Passat,Premium Sedan,Petrol,5599
+Comprehensive Service,Volkswagen,Passat,Premium Sedan,Petrol,7899
+Basic Service,Volkswagen,Passat,Premium Sedan,CNG,3299
+Standard Service,Volkswagen,Passat,Premium Sedan,CNG,5599
+Comprehensive Service,Volkswagen,Passat,Premium Sedan,CNG,7899
+Basic Service,Volkswagen,Passat,Premium Sedan,Diesel,3499
+Standard Service,Volkswagen,Passat,Premium Sedan,Diesel,5799
+Comprehensive Service,Volkswagen,Passat,Premium Sedan,Diesel,9299
+Basic Service,Volkswagen,Polo,Premium Hatchback,Petrol,3299
+Standard Service,Volkswagen,Polo,Premium Hatchback,Petrol,4199
+Comprehensive Service,Volkswagen,Polo,Premium Hatchback,Petrol,6299
+Basic Service,Volkswagen,Polo,Premium Hatchback,CNG,3299
+Standard Service,Volkswagen,Polo,Premium Hatchback,CNG,4199
+Comprehensive Service,Volkswagen,Polo,Premium Hatchback,CNG,6299
+Basic Service,Volkswagen,Polo,Premium Hatchback,Diesel,3499
+Standard Service,Volkswagen,Polo,Premium Hatchback,Diesel,4499
+Comprehensive Service,Volkswagen,Polo,Premium Hatchback,Diesel,7199
+Basic Service,Volkswagen,Vento,Premium Sedan,Petrol,4399
+Standard Service,Volkswagen,Vento,Premium Sedan,Petrol,5599
+Comprehensive Service,Volkswagen,Vento,Premium Sedan,Petrol,6999
+Basic Service,Volkswagen,Vento,Premium Sedan,CNG,4399
+Standard Service,Volkswagen,Vento,Premium Sedan,CNG,5599
+Comprehensive Service,Volkswagen,Vento,Premium Sedan,CNG,6999
+Basic Service,Volkswagen,Vento,Premium Sedan,Diesel,4499
+Standard Service,Volkswagen,Vento,Premium Sedan,Diesel,5799
+Comprehensive Service,Volkswagen,Vento,Premium Sedan,Diesel,7299
+Basic Service,Mahindra,TUV 300,SUV,Diesel,4199
+Standard Service,Mahindra,TUV 300,SUV,Diesel,5399
+Comprehensive Service,Mahindra,TUV 300,SUV,Diesel,7899
+Basic Service,Mahindra,Verito,Sedan,Petrol,3999
+Standard Service,Mahindra,Verito,Sedan,Petrol,5199
+Comprehensive Service,Mahindra,Verito,Sedan,Petrol,7399
+Basic Service,Renault,Kwid,Hatchback,Petrol,2899
+Standard Service,Renault,Kwid,Hatchback,Petrol,3599
+Comprehensive Service,Renault,Kwid,Hatchback,Petrol,5399
+Basic Service,Renault,Kwid,Hatchback,Diesel,3299
+Standard Service,Renault,Kwid,Hatchback,Diesel,4199
+Comprehensive Service,Renault,Kwid,Hatchback,Diesel,6799
+Basic Service,Renault,Kwid,Hatchback,CNG,2899
+Standard Service,Renault,Kwid,Hatchback,CNG,3599
+Comprehensive Service,Renault,Kwid,Hatchback,CNG,5399
+Basic Service,Chevrolet,Trailblazer,Premium SUV,Diesel,5699
+Standard Service,Chevrolet,Trailblazer,Premium SUV,Diesel,7299
+Comprehensive Service,Chevrolet,Trailblazer,Premium SUV,Diesel,11199
+Basic Service,Datsun,Redi Go,Hatchback,Petrol,2399
+Standard Service,Datsun,Redi Go,Hatchback,Petrol,3099
+Comprehensive Service,Datsun,Redi Go,Hatchback,Petrol,4199
+Basic Service,Datsun,Redi Go,Hatchback,Diesel,2799
+Standard Service,Datsun,Redi Go,Hatchback,Diesel,3499
+Comprehensive Service,Datsun,Redi Go,Hatchback,Diesel,5199
+Basic Service,Fiat,Abarth Punto,Hatchback,Petrol,2999
+Standard Service,Fiat,Abarth Punto,Hatchback,Petrol,3799
+Comprehensive Service,Fiat,Abarth Punto,Hatchback,Petrol,5399
+Basic Service,Fiat,Abarth Punto,Hatchback,Diesel,3499
+Standard Service,Fiat,Abarth Punto,Hatchback,Diesel,4399
+Comprehensive Service,Fiat,Abarth Punto,Hatchback,Diesel,7799
+Basic Service,Fiat,Urban Cross,Hatchback,Petrol,2999
+Standard Service,Fiat,Urban Cross,Hatchback,Petrol,3799
+Comprehensive Service,Fiat,Urban Cross,Hatchback,Petrol,5399
+Basic Service,Fiat,Urban Cross,Hatchback,Diesel,3499
+Standard Service,Fiat,Urban Cross,Hatchback,Diesel,4399
+Comprehensive Service,Fiat,Urban Cross,Hatchback,Diesel,7799
+Basic Service,Honda,BRV,SUV,Petrol,3199
+Standard Service,Honda,BRV,SUV,Petrol,4199
+Comprehensive Service,Honda,BRV,SUV,Petrol,6099
+Basic Service,Honda,BRV,SUV,Diesel,3299
+Standard Service,Honda,BRV,SUV,Diesel,4299
+Comprehensive Service,Honda,BRV,SUV,Diesel,6699
+Basic Service,Honda,WRV,SUV,Petrol,3199
+Standard Service,Honda,WRV,SUV,Petrol,4199
+Comprehensive Service,Honda,WRV,SUV,Petrol,6099
+Basic Service,Honda,WRV,SUV,Diesel,3299
+Standard Service,Honda,WRV,SUV,Diesel,4299
+Comprehensive Service,Honda,WRV,SUV,Diesel,6699
+Basic Service,Honda,Accord Hybrid,Premium Sedan,Petrol,3999
+Standard Service,Honda,Accord Hybrid,Premium Sedan,Petrol,5199
+Comprehensive Service,Honda,Accord Hybrid,Premium Sedan,Petrol,7499
+Basic Service,Mahindra,KUV 100,Hatchback,Petrol,2599
+Standard Service,Mahindra,KUV 100,Hatchback,Petrol,3199
+Comprehensive Service,Mahindra,KUV 100,Hatchback,Petrol,4399
+Basic Service,Mahindra,KUV 100,Hatchback,Diesel,2899
+Standard Service,Mahindra,KUV 100,Hatchback,Diesel,3599
+Comprehensive Service,Mahindra,KUV 100,Hatchback,Diesel,6199
+Basic Service,Mahindra,NuvoSport,SUV,Petrol,3199
+Standard Service,Mahindra,NuvoSport,SUV,Petrol,4199
+Comprehensive Service,Mahindra,NuvoSport,SUV,Petrol,5899
+Basic Service,Mahindra,NuvoSport,SUV,Diesel,3499
+Standard Service,Mahindra,NuvoSport,SUV,Diesel,4599
+Comprehensive Service,Mahindra,NuvoSport,SUV,Diesel,7199
+Basic Service,Maruti Suzuki,Vitara Brezza,SUV,Diesel,2899
+Standard Service,Maruti Suzuki,Vitara Brezza,SUV,Diesel,3699
+Comprehensive Service,Maruti Suzuki,Vitara Brezza,SUV,Diesel,6099
+Basic Service,Maruti Suzuki,Ignis,Hatchback,Petrol,2599
+Standard Service,Maruti Suzuki,Ignis,Hatchback,Petrol,3199
+Comprehensive Service,Maruti Suzuki,Ignis,Hatchback,Petrol,4399
+Basic Service,Maruti Suzuki,Ignis,Hatchback,Diesel,2899
+Standard Service,Maruti Suzuki,Ignis,Hatchback,Diesel,3599
+Comprehensive Service,Maruti Suzuki,Ignis,Hatchback,Diesel,6199
+Basic Service,Tata,Tiago,Hatchback,Petrol,2799
+Standard Service,Tata,Tiago,Hatchback,Petrol,3499
+Comprehensive Service,Tata,Tiago,Hatchback,Petrol,4499
+Basic Service,Tata,Tiago,Hatchback,Diesel,3299
+Standard Service,Tata,Tiago,Hatchback,Diesel,4199
+Comprehensive Service,Tata,Tiago,Hatchback,Diesel,6199
+Basic Service,Tata,Nexon,SUV,Petrol,3199
+Standard Service,Tata,Nexon,SUV,Petrol,4199
+Comprehensive Service,Tata,Nexon,SUV,Petrol,5899
+Basic Service,Tata,Nexon,SUV,Diesel,3499
+Standard Service,Tata,Nexon,SUV,Diesel,4499
+Comprehensive Service,Tata,Nexon,SUV,Diesel,7199
+Basic Service,Tata,Tigor,Sedan,Petrol,2799
+Standard Service,Tata,Tigor,Sedan,Petrol,3599
+Comprehensive Service,Tata,Tigor,Sedan,Petrol,4499
+Basic Service,Tata,Tigor,Sedan,Diesel,3299
+Standard Service,Tata,Tigor,Sedan,Diesel,4299
+Comprehensive Service,Tata,Tigor,Sedan,Diesel,6199
+Basic Service,Tata,Hexa,SUV,Petrol,4999
+Standard Service,Tata,Hexa,SUV,Petrol,8899
+Comprehensive Service,Tata,Hexa,SUV,Petrol,9499
+Basic Service,Tata,Hexa,SUV,Diesel,4999
+Standard Service,Tata,Hexa,SUV,Diesel,8899
+Comprehensive Service,Tata,Hexa,SUV,Diesel,9499
+Basic Service,Tata,Venture,SUV,Diesel,3899
+Standard Service,Tata,Venture,SUV,Diesel,4999
+Comprehensive Service,Tata,Venture,SUV,Diesel,7599
+Basic Service,Toyota,Innova Crysta,SUV,Petrol,4499
+Standard Service,Toyota,Innova Crysta,SUV,Petrol,5899
+Comprehensive Service,Toyota,Innova Crysta,SUV,Petrol,8199
+Basic Service,Toyota,Innova Crysta,SUV,Diesel,4999
+Standard Service,Toyota,Innova Crysta,SUV,Diesel,6399
+Comprehensive Service,Toyota,Innova Crysta,SUV,Diesel,9399
+Basic Service,Volkswagen,Ameo,Sedan,Petrol,3499
+Standard Service,Volkswagen,Ameo,Sedan,Petrol,4499
+Comprehensive Service,Volkswagen,Ameo,Sedan,Petrol,6499
+Basic Service,Volkswagen,Ameo,Sedan,Diesel,3699
+Standard Service,Volkswagen,Ameo,Sedan,Diesel,4799
+Comprehensive Service,Volkswagen,Ameo,Sedan,Diesel,7499
+Basic Service,Mitsubishi,Outlander,Premium SUV,Petrol,5699
+Standard Service,Mitsubishi,Outlander,Premium SUV,Petrol,7299
+Comprehensive Service,Mitsubishi,Outlander,Premium SUV,Petrol,11199
+Basic Service,Mitsubishi,Outlander,Premium SUV,Diesel,5699
+Standard Service,Mitsubishi,Outlander,Premium SUV,Diesel,7299
+Comprehensive Service,Mitsubishi,Outlander,Premium SUV,Diesel,11199
+Basic Service,Mitsubishi,Montero,Premium SUV,Diesel,6199
+Standard Service,Mitsubishi,Montero,Premium SUV,Diesel,7899
+Comprehensive Service,Mitsubishi,Montero,Premium SUV,Diesel,11799
+Basic Service,Datsun,GO,Hatchback,Diesel,2999
+Standard Service,Datsun,GO,Hatchback,Diesel,3699
+Comprehensive Service,Datsun,GO,Hatchback,Diesel,6199
+Basic Service,Datsun,GO Plus,SUV,Diesel,2999
+Standard Service,Datsun,GO Plus,SUV,Diesel,3799
+Comprehensive Service,Datsun,GO Plus,SUV,Diesel,6199
+Basic Service,Fiat,Punto Evo,Hatchback,Petrol,2999
+Standard Service,Fiat,Punto Evo,Hatchback,Petrol,3799
+Comprehensive Service,Fiat,Punto Evo,Hatchback,Petrol,5399
+Basic Service,Fiat,Uno,Hatchback,Diesel,3499
+Standard Service,Fiat,Uno,Hatchback,Diesel,4399
+Comprehensive Service,Fiat,Uno,Hatchback,Diesel,7799
+Basic Service,Honda,City IDTEC,Premium Sedan,Diesel,3499
+Standard Service,Honda,City IDTEC,Premium Sedan,Diesel,4499
+Comprehensive Service,Honda,City IDTEC,Premium Sedan,Diesel,7399
+Basic Service,Honda,City ZX,Sedan,Diesel,3499
+Standard Service,Honda,City ZX,Sedan,Diesel,4499
+Comprehensive Service,Honda,City ZX,Sedan,Diesel,7399
+Basic Service,Honda,CRV,Premium SUV,Diesel,5299
+Standard Service,Honda,CRV,Premium SUV,Diesel,6699
+Comprehensive Service,Honda,CRV,Premium SUV,Diesel,10399
+Basic Service,Nissan,Sunny,Premium Sedan,Petrol,3499
+Standard Service,Nissan,Sunny,Premium Sedan,Petrol,4499
+Comprehensive Service,Nissan,Sunny,Premium Sedan,Petrol,6299
+Basic Service,Nissan,Teana,Premium Sedan,Petrol,4299
+Standard Service,Nissan,Teana,Premium Sedan,Petrol,5399
+Comprehensive Service,Nissan,Teana,Premium Sedan,Petrol,7499
+Basic Service,Skoda,Yeti,Premium SUV,Petrol,4599
+Standard Service,Skoda,Yeti,Premium SUV,Petrol,5699
+Comprehensive Service,Skoda,Yeti,Premium SUV,Petrol,7899
+Basic Service,Skoda,Laura,Premium Sedan,Petrol,3799
+Standard Service,Skoda,Laura,Premium Sedan,Petrol,4799
+Comprehensive Service,Skoda,Laura,Premium Sedan,Petrol,6499
+Basic Service,Toyota,Innova,SUV,Petrol,4499
+Standard Service,Toyota,Innova,SUV,Petrol,5699
+Comprehensive Service,Toyota,Innova,SUV,Petrol,7899
+Basic Service,Mahindra,Logan,Sedan,Diesel,4399
+Standard Service,Mahindra,Logan,Sedan,Diesel,5599
+Comprehensive Service,Mahindra,Logan,Sedan,Diesel,8099
+Basic Service,Force,One,SUV,Diesel,4399
+Standard Service,Force,One,SUV,Diesel,5599
+Comprehensive Service,Force,One,SUV,Diesel,8099
+Basic Service,Hyundai,Grand i10,Hatchback,Petrol,2399
+Standard Service,Hyundai,Grand i10,Hatchback,Petrol,2899
+Comprehensive Service,Hyundai,Grand i10,Hatchback,Petrol,4699
+Basic Service,Nissan,Micra,Hatchback,Diesel,2899
+Standard Service,Nissan,Micra,Hatchback,Diesel,3299
+Comprehensive Service,Nissan,Micra,Hatchback,Diesel,5499
+Basic Service,Ford,Freestyle,Hatchback,Petrol,2699
+Standard Service,Ford,Freestyle,Hatchback,Petrol,3399
+Comprehensive Service,Ford,Freestyle,Hatchback,Petrol,5899
+Basic Service,Ford,Freestyle,Hatchback,Diesel,3499
+Standard Service,Ford,Freestyle,Hatchback,Diesel,4399
+Comprehensive Service,Ford,Freestyle,Hatchback,Diesel,7799
+Basic Service,Isuzu,MU7,Premium SUV,Diesel,5599
+Standard Service,Isuzu,MU7,Premium SUV,Diesel,8899
+Comprehensive Service,Isuzu,MU7,Premium SUV,Diesel,10999
+Basic Service,Hindustan Motors,Ambassador,Sedan,Petrol,3199
+Standard Service,Hindustan Motors,Ambassador,Sedan,Petrol,4199
+Comprehensive Service,Hindustan Motors,Ambassador,Sedan,Petrol,6099
+Basic Service,Hindustan Motors,Ambassador,Sedan,Diesel,3199
+Standard Service,Hindustan Motors,Ambassador,Sedan,Diesel,4199
+Comprehensive Service,Hindustan Motors,Ambassador,Sedan,Diesel,6099
+Basic Service,Hindustan Motors,Ambassador,Sedan,CNG,3199
+Standard Service,Hindustan Motors,Ambassador,Sedan,CNG,4199
+Comprehensive Service,Hindustan Motors,Ambassador,Sedan,CNG,6099
+Basic Service,Tata,Winger,SUV,Petrol,3899
+Standard Service,Tata,Winger,SUV,Petrol,4999
+Comprehensive Service,Tata,Winger,SUV,Petrol,7299
+Basic Service,Jeep,Compass,Premium SUV,Petrol,5099
+Standard Service,Jeep,Compass,Premium SUV,Petrol,6499
+Comprehensive Service,Jeep,Compass,Premium SUV,Petrol,10099
+Basic Service,Mahindra,Marazzo,SUV,Diesel,4399
+Standard Service,Mahindra,Marazzo,SUV,Diesel,5599
+Comprehensive Service,Mahindra,Marazzo,SUV,Diesel,8099
+Basic Service,Opel,Astra,Hatchback,Petrol,3299
+Standard Service,Opel,Astra,Hatchback,Petrol,4199
+Comprehensive Service,Opel,Astra,Hatchback,Petrol,6299
+Basic Service,Opel,Astra,Hatchback,Diesel,3499
+Standard Service,Opel,Astra,Hatchback,Diesel,4499
+Comprehensive Service,Opel,Astra,Hatchback,Diesel,7199
+Basic Service,Opel,Astra,Hatchback,CNG,3299
+Standard Service,Opel,Astra,Hatchback,CNG,4199
+Comprehensive Service,Opel,Astra,Hatchback,CNG,6299
+Basic Service,Mahindra,XUV 500,SUV,Petrol,4399
+Standard Service,Mahindra,XUV 500,SUV,Petrol,5599
+Comprehensive Service,Mahindra,XUV 500,SUV,Petrol,8099
+Basic Service,Ssangyong,Rexton,Premium SUV,Petrol,4399
+Standard Service,Ssangyong,Rexton,Premium SUV,Petrol,5599
+Comprehensive Service,Ssangyong,Rexton,Premium SUV,Petrol,8099
+Basic Service,Ssangyong,Rexton,Premium SUV,Diesel,4399
+Standard Service,Ssangyong,Rexton,Premium SUV,Diesel,5599
+Comprehensive Service,Ssangyong,Rexton,Premium SUV,Diesel,8099
+Basic Service,Opel,Corsa,Hatchback,Petrol,3299
+Standard Service,Opel,Corsa,Hatchback,Petrol,4199
+Comprehensive Service,Opel,Corsa,Hatchback,Petrol,6299
+Basic Service,Opel,Corsa,Hatchback,Diesel,3499
+Standard Service,Opel,Corsa,Hatchback,Diesel,4499
+Comprehensive Service,Opel,Corsa,Hatchback,Diesel,7199
+Basic Service,Tata,harrier,SUV,Petrol,4399
+Standard Service,Tata,harrier,SUV,Petrol,5599
+Comprehensive Service,Tata,harrier,SUV,Petrol,8099
+Basic Service,Tata,harrier,SUV,Diesel,4399
+Standard Service,Tata,harrier,SUV,Diesel,5599
+Comprehensive Service,Tata,harrier,SUV,Diesel,8099
+Basic Service,Nissan,Terrano,SUV,Petrol,4299
+Standard Service,Nissan,Terrano,SUV,Petrol,5499
+Comprehensive Service,Nissan,Terrano,SUV,Petrol,9299
+Basic Service,Jeep,Compass,Premium SUV,Diesel,5599
+Standard Service,Jeep,Compass,Premium SUV,Diesel,8899
+Comprehensive Service,Jeep,Compass,Premium SUV,Diesel,10999
+Basic Service,Toyota,Yaris,Premium Sedan,Petrol,3999
+Standard Service,Toyota,Yaris,Premium Sedan,Petrol,5499
+Comprehensive Service,Toyota,Yaris,Premium Sedan,Petrol,6999
+Basic Service,Toyota,Yaris,Premium Sedan,CNG,3999
+Standard Service,Toyota,Yaris,Premium Sedan,CNG,5499
+Comprehensive Service,Toyota,Yaris,Premium Sedan,CNG,6999
+Basic Service,Mahindra,XUV 300,SUV,Petrol,3199
+Standard Service,Mahindra,XUV 300,SUV,Petrol,4199
+Comprehensive Service,Mahindra,XUV 300,SUV,Petrol,5899
+Basic Service,Mahindra,XUV 300,SUV,Diesel,3099
+Standard Service,Mahindra,XUV 300,SUV,Diesel,4199
+Comprehensive Service,Mahindra,XUV 300,SUV,Diesel,6899
+Basic Service,Mitsubishi,Lancer,Sedan,Petrol,2599
+Standard Service,Mitsubishi,Lancer,Sedan,Petrol,3299
+Comprehensive Service,Mitsubishi,Lancer,Sedan,Petrol,4399
+Basic Service,Mitsubishi,Lancer,Sedan,Diesel,2599
+Standard Service,Mitsubishi,Lancer,Sedan,Diesel,3299
+Comprehensive Service,Mitsubishi,Lancer,Sedan,Diesel,4399
+Basic Service,Mitsubishi,Cedia,Sedan,Petrol,2599
+Standard Service,Mitsubishi,Cedia,Sedan,Petrol,3299
+Comprehensive Service,Mitsubishi,Cedia,Sedan,Petrol,4399
+Basic Service,Mitsubishi,Cedia,Sedan,Diesel,2599
+Standard Service,Mitsubishi,Cedia,Sedan,Diesel,3299
+Comprehensive Service,Mitsubishi,Cedia,Sedan,Diesel,4399
+Basic Service,Hyundai,Venue,SUV,Petrol,3199
+Standard Service,Hyundai,Venue,SUV,Petrol,4199
+Comprehensive Service,Hyundai,Venue,SUV,Petrol,5899
+Basic Service,Hyundai,Venue,SUV,Diesel,3099
+Standard Service,Hyundai,Venue,SUV,Diesel,4199
+Comprehensive Service,Hyundai,Venue,SUV,Diesel,6899
+Basic Service,Hyundai,SantaFE,Premium SUV,Diesel,5199
+Standard Service,Hyundai,SantaFE,Premium SUV,Diesel,6599
+Comprehensive Service,Hyundai,SantaFE,Premium SUV,Diesel,10299
+Basic Service,Renault,Triber,SUV,Petrol,2899
+Standard Service,Renault,Triber,SUV,Petrol,3699
+Comprehensive Service,Renault,Triber,SUV,Petrol,5399
+Basic Service,Renault,Triber,SUV,Diesel,3299
+Standard Service,Renault,Triber,SUV,Diesel,4299
+Comprehensive Service,Renault,Triber,SUV,Diesel,6799
+Basic Service,Renault,Triber,SUV,CNG,2899
+Standard Service,Renault,Triber,SUV,CNG,3699
+Comprehensive Service,Renault,Triber,SUV,CNG,5399
+Basic Service,MG,Hector,SUV,Petrol,5099
+Standard Service,MG,Hector,SUV,Petrol,6499
+Comprehensive Service,MG,Hector,SUV,Petrol,10099
+Basic Service,MG,Hector,SUV,Diesel,5599
+Standard Service,MG,Hector,SUV,Diesel,8899
+Comprehensive Service,MG,Hector,SUV,Diesel,10999
+Basic Service,Kia,Seltos,SUV,Petrol,3099
+Standard Service,Kia,Seltos,SUV,Petrol,4299
+Comprehensive Service,Kia,Seltos,SUV,Petrol,5499
+Basic Service,Kia,Seltos,SUV,Diesel,3999
+Standard Service,Kia,Seltos,SUV,Diesel,4499
+Comprehensive Service,Kia,Seltos,SUV,Diesel,6299
+Basic Service,Renault,Captur,SUV,Diesel,4299
+Standard Service,Renault,Captur,SUV,Diesel,5499
+Comprehensive Service,Renault,Captur,SUV,Diesel,9299
+Basic Service,Volkswagen,Tiguan,SUV,Diesel,4999
+Standard Service,Volkswagen,Tiguan,SUV,Diesel,6999
+Comprehensive Service,Volkswagen,Tiguan,SUV,Diesel,10599
+Basic Service,Toyota,Tiguan,SUV,Petrol,2599
+Standard Service,Toyota,Tiguan,SUV,Petrol,3099
+Comprehensive Service,Toyota,Tiguan,SUV,Petrol,5399
+Basic Service,Toyota,Glanza,Premium Hatchback,Diesel,2599
+Standard Service,Toyota,Glanza,Premium Hatchback,Diesel,3299
+Comprehensive Service,Toyota,Glanza,Premium Hatchback,Diesel,5399
+Basic Service,Toyota,Glanza,Premium Hatchback,CNG,2599
+Standard Service,Toyota,Glanza,Premium Hatchback,CNG,3299
+Comprehensive Service,Toyota,Glanza,Premium Hatchback,CNG,5399
+Basic Service,Hyundai,Getz Prime,Hatchback,Petrol,3199
+Standard Service,Hyundai,Getz Prime,Hatchback,Petrol,4199
+Comprehensive Service,Hyundai,Getz Prime,Hatchback,Petrol,6099
+Basic Service,Tata,Xenon,SUV,Diesel,5299
+Standard Service,Tata,Xenon,SUV,Diesel,6799
+Comprehensive Service,Tata,Xenon,SUV,Diesel,10499
+Basic Service,Skoda,Xenon,SUV,Petrol,5099
+Standard Service,Skoda,Xenon,SUV,Petrol,6499
+Comprehensive Service,Skoda,Xenon,SUV,Petrol,10099
+Basic Service,Skoda,Kodiaq,Premium SUV,Diesel,5599
+Standard Service,Skoda,Kodiaq,Premium SUV,Diesel,8899
+Comprehensive Service,Skoda,Kodiaq,Premium SUV,Diesel,10999
+Basic Service,Mahindra,Bolero Camper,SUV,Diesel,4399
+Standard Service,Mahindra,Bolero Camper,SUV,Diesel,5599
+Comprehensive Service,Mahindra,Bolero Camper,SUV,Diesel,8099
+Basic Service,Mahindra,Bolero Pickup,SUV,Diesel,4399
+Standard Service,Mahindra,Bolero Pickup,SUV,Diesel,5599
+Comprehensive Service,Mahindra,Bolero Pickup,SUV,Diesel,8099
+Basic Service,Tata,Altroz,Premium Hatchback,Petrol,2599
+Standard Service,Tata,Altroz,Premium Hatchback,Petrol,3199
+Comprehensive Service,Tata,Altroz,Premium Hatchback,Petrol,4199
+Basic Service,Tata,Altroz,Premium Hatchback,Diesel,2599
+Standard Service,Tata,Altroz,Premium Hatchback,Diesel,4099
+Comprehensive Service,Tata,Altroz,Premium Hatchback,Diesel,5799
+Basic Service,Force,Traveller 3350,SUV,Diesel,3899
+Standard Service,Force,Traveller 3350,SUV,Diesel,4799
+Comprehensive Service,Force,Traveller 3350,SUV,Diesel,7299
+Basic Service,Force,Trax,SUV,Diesel,4399
+Standard Service,Force,Trax,SUV,Diesel,5399
+Comprehensive Service,Force,Trax,SUV,Diesel,8099
+Basic Service,Toyota,Qualis,SUV,Petrol,4399
+Standard Service,Toyota,Qualis,SUV,Petrol,5399
+Comprehensive Service,Toyota,Qualis,SUV,Petrol,8599
+Basic Service,Toyota,Qualis,SUV,Diesel,4399
+Standard Service,Toyota,Qualis,SUV,Diesel,5399
+Comprehensive Service,Toyota,Qualis,SUV,Diesel,8599
+Basic Service,Force,Gurkha,SUV,Diesel,4399
+Standard Service,Force,Gurkha,SUV,Diesel,5399
+Comprehensive Service,Force,Gurkha,SUV,Diesel,8099
+Basic Service,Isuzu,Isuzu Dmax Vcross,SUV,Diesel,5299
+Standard Service,Isuzu,Isuzu Dmax Vcross,SUV,Diesel,6599
+Comprehensive Service,Isuzu,Isuzu Dmax Vcross,SUV,Diesel,10499
+Basic Service,Maruti Suzuki,S-Presso,Hatchback,Petrol,2899
+Standard Service,Maruti Suzuki,S-Presso,Hatchback,Petrol,3599
+Comprehensive Service,Maruti Suzuki,S-Presso,Hatchback,Petrol,5399
+Basic Service,Maruti Suzuki,S-Presso,Hatchback,Diesel,3299
+Standard Service,Maruti Suzuki,S-Presso,Hatchback,Diesel,4199
+Comprehensive Service,Maruti Suzuki,S-Presso,Hatchback,Diesel,6799
+Basic Service,Hyundai,Santro,Hatchback,Petrol,2399
+Standard Service,Hyundai,Santro,Hatchback,Petrol,2899
+Comprehensive Service,Hyundai,Santro,Hatchback,Petrol,4399
+Basic Service,Hyundai,Santro,Hatchback,Diesel,2399
+Standard Service,Hyundai,Santro,Hatchback,Diesel,2899
+Comprehensive Service,Hyundai,Santro,Hatchback,Diesel,4399
+Basic Service,Hyundai,Grand i10 Nios,Hatchback,Petrol,2399
+Standard Service,Hyundai,Grand i10 Nios,Hatchback,Petrol,3099
+Comprehensive Service,Hyundai,Grand i10 Nios,Hatchback,Petrol,4699
+Basic Service,Hyundai,Grand i10 Nios,Hatchback,Diesel,2399
+Standard Service,Hyundai,Grand i10 Nios,Hatchback,Diesel,3099
+Comprehensive Service,Hyundai,Grand i10 Nios,Hatchback,Diesel,4699
+Basic Service,Hyundai,Aura,Sedan,Petrol,2199
+Standard Service,Hyundai,Aura,Sedan,Petrol,2999
+Comprehensive Service,Hyundai,Aura,Sedan,Petrol,4599
+Basic Service,Hyundai,Aura,Sedan,Diesel,2399
+Standard Service,Hyundai,Aura,Sedan,Diesel,2999
+Comprehensive Service,Hyundai,Aura,Sedan,Diesel,4799

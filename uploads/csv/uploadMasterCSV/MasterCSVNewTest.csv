@@ -1,0 +1,2 @@
+make,model,fuel,make_image,model_image,car_type,package_name,package_description,package_price,discounted_price,service_time
+Toyota,Fortuner,Petrol,2.jpeg,6.jpeg,SUV,Standard Service,null,5000,4500,null

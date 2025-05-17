@@ -1,0 +1,4 @@
+promocode_text,selection_type,promocode_amount,promocode_start_date,promocode_end_date,promocode_status
+Treat100,2,100,2021-01-20,2021-02-20,1
+Spring50,1,50,2021-01-10,2021-02-10,1
+Monsoon50,1,50,2021-02-08,2021-02-18,0
