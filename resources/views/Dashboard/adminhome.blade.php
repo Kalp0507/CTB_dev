@@ -69,7 +69,7 @@
           </li>
         </ul>
         <!-- /.row -->
-  
+
         <!-- /.row (main row) -->
       </div><!-- /.container-fluid -->
     </section>
@@ -83,7 +83,7 @@
   		<!-- <div style="margin-left: auto;">
   			<h4 class="mb-0 text-light">Booking Entries</h4>
   		</div> -->
-  		
+
   	</div>
   		<table class="table table-responsive-sm border">
 		    <thead>
@@ -109,19 +109,19 @@
                 ?>
               </td>
 			        <td>
-				        @if($bookings->assignedGarageId != null) 
+				        @if($bookings->assignedGarageId != null)
 			        		<button type="button" data-bookingId="{{$bookings->order_id}}" class="unassignGarage btn button-color btn-block btn-block">Unassign</button>
 			        	@else
 			        		<button data-toggle="modal" data-bookingId="{{$bookings->order_id}}" id="{{$bookings->order_id}}"  data-target="#signup" class=" btn button-color btn-block btn-block">Assign</button>
 			        	@endif
 			        </td>
 
-			       	
+
 
 		        	<!-- <td><a href="#" data-toggle="modal" data-target="#signup">...</a></td> -->
 			      </tr>
 			    @endforeach
-		      
+
 		    </tbody>
 		  </table>
   </div>
@@ -133,7 +133,7 @@
   		<div style="margin-left: auto;">
   			<h4 class="mb-0 text-light">New Leads</h4>
   		</div>
-  		
+
   	</div>
   		<table class="table table-responsive-sm border">
 		    <thead>
@@ -154,11 +154,11 @@
               <td>{{$leads->id}}</td>
 			        <td>{{$leads->name}}</td>
 			        <td>{{$leads->mobile}}</td>
-			        @if($leads->leadType == 1) 
+			        @if($leads->leadType == 1)
 			        	<td>Mature Lead</td>
 			        @else
 			        	<td>Immature Lead</td>
-			        @endif  
+			        @endif
 
 			        <td>
                 <?php
@@ -179,7 +179,7 @@
       <div style="margin-left: auto;">
         <h4 class="mb-0 text-light">Immature Leads</h4>
       </div>
-      
+
     </div>
       <table class="table table-responsive-sm border">
         <thead>
@@ -200,13 +200,13 @@
               <td>{{$userData->email}}</td>
               <td>{{$userData->username}}</td>
               <td>{{$userData->address}}</td>
-              
+
               <td>
                 <?php
                   $date=date_create($userData->created_at);
                   echo date_format($date,"d-m-Y H:i:s");
                 ?>
-              </td> 
+              </td>
             </tr>
           @endforeach
         </tbody>
@@ -220,7 +220,7 @@
   		<div style="margin-left: auto;">
   			<h4 class="mb-0 text-light">New Garages</h4>
   		</div>
-  		
+
   	</div>
   		<table class="table table-responsive-sm border">
 		    <thead>
@@ -275,7 +275,7 @@
 		        <td><button class=" btn button-color btn-block">Assign</button></td>
 		        <td> ...</td>
 		      </tr> -->
-		      
+
 		    </tbody>
 		  </table>
   </div>
@@ -287,7 +287,7 @@
   		<div style="margin-left: auto;">
   			<h4 class="mb-0 text-light">Garage Requests</h4>
   		</div>
-  		
+
   	</div>
   		<table class="table table-responsive-sm border">
 		    <thead>
@@ -324,11 +324,11 @@
 		            </td>
 		          </tr>
 	          	@endforeach
-		    	
-		      
+
+
 		    </tbody>
 		  </table>
-  </div> 
+  </div>
 </div>
 
 <div class="modal fade setStatus-modal" id="setStatusModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
@@ -342,7 +342,7 @@
         <div class="row mt-2">
           <form class="form-horizontal" id="form-edit-client" style="width: 100%;">
             <fieldset>
-              
+
               <div class="form-group mb-1">
                 <label class="col-md-6 control-label" for="selectGarageReqStatus">Set Status</label>
                 <select id="selectGarageReqStatus">
@@ -354,7 +354,7 @@
               </div>
 
               <div class="form-group">
-                  <label class="col-md-6 control-label" for="extraNote">Note:</label>  
+                  <label class="col-md-6 control-label" for="extraNote">Note:</label>
                   <div class="col-md-12">
                     <textarea class="form-control" id="extraNote" name="other-details" rows="3"></textarea>
                   </div>
@@ -380,7 +380,7 @@
     @stop
 
 
-<!-- 
+<!--
 
 
 <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
@@ -440,7 +440,7 @@
               <thead>
                 <tr>
                     <th>Assign Garages</th>
-                    
+
                 </tr>
               </thead>
               <tbody>
@@ -453,12 +453,12 @@
                             <h5>{{$garages->garage_name}}</h5>
                             <p class="mb-1">{{$garages->garage_description}}</p>
                             <p class="mb-1">{{$garages->mechanic_details}}</p>
-                            
+
                           </div>
                           <div class="col-lg-5 align-self-center">
                             <p class="mb-1">{{$garages->garage_location}}</p>
                             <p class="mb-1">{{$garages->other_details}}</p>
-                            
+
                           </div>
                             <div class="col-lg-2 text-center align-self-center">
                             <button type="submit" class="assignServiceHome btn text-light" class="assignService" id="{{$garages->id}}" data-id="{{$garages->id}}" style="padding: 10px 18px; background-color:#182d54;">Assign Garage</button>
@@ -467,9 +467,9 @@
                       </div>
                     </td>
                   </tr>
-                  
+
                 @endforeach
-                            
+
               </tbody>
             </table>
 
@@ -482,12 +482,12 @@
 	            					<h5>{{$garages->garage_name}}</h5>
 	            					<p class="mb-1">{{$garages->garage_description}}</p>
 	            					<p class="mb-1">{{$garages->mechanic_details}}</p>
-	            					
+
 	            				</div>
 	            				<div class="col-lg-5 align-self-center">
 	            					<p class="mb-1">{{$garages->garage_location}}</p>
 	            					<p class="mb-1">{{$garages->other_details}}</p>
-	            					
+
 	            				</div>
 	               				<div class="col-lg-2 text-center align-self-center">
 	            					<button type="submit" class="assignServiceHome btn text-light" class="assignService" id="{{$garages->id}}" data-id="{{$garages->id}}" style="padding: 10px 18px; background-color:#182d54;">Assign Garage</button>
@@ -495,8 +495,8 @@
 	            			</div>
 	            		</div>
             		@endforeach
-            		<input type="hidden" id="hiddenOrderId" name="hiddenOrderId" value="" />       		
-            		
+            		<input type="hidden" id="hiddenOrderId" name="hiddenOrderId" value="" />
+
             	</div>
             </div> -->
           </div>
@@ -555,7 +555,7 @@
 								        </button></li>
 									</span>
 
-									
+
 								</div>
 								<div class="col-lg-4 blogBox moreBox">
 									<span>
@@ -564,7 +564,7 @@
 								        </button></li>
 									</span>
 
-									
+
 								</div>
 								<div class="col-lg-4 blogBox moreBox">
 									<span>
@@ -573,7 +573,7 @@
 								        </button></li>
 									</span>
 
-									
+
 								</div>
 								<div class="col-lg-4 blogBox moreBox">
 									<span>
@@ -608,7 +608,7 @@
 
 								</div>
 							</div>
-						</ul>	
+						</ul>
             	</div>
             </div>
           </div>
